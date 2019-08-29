@@ -233,49 +233,56 @@
 "../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 232
 "../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Geometry/Meshes/CubeMaterial.uasset" 233
 "../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Geometry/Meshes/1M_Cube.uasset" 234
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 235
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 236
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 237
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 238
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 239
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 240
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 241
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 242
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 243
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 244
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 245
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 246
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 247
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 248
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 249
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/TeleportMCP.uasset" 250
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 251
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 252
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 253
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 254
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 255
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 256
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 257
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 258
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 259
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 260
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 261
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 262
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 263
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/1x1_cube.uasset" 264
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeaconDirection.uasset" 265
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeamMesh.uasset" 266
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 267
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 268
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 269
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 270
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 271
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 272
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 273
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 274
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 275
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 276
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/GenericHMD.uasset" 277
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/StartupMap.umap" 278
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 279
-"../../../Engine/Content/Maps/Entry.umap" 280
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_CubeInt.uasset" 235
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_Float.uasset" 236
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetFloatBack.uasset" 237
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 238
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 239
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 240
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 241
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 242
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 243
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 244
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 250
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 251
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/TeleportMCP.uasset" 252
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 253
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 254
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 255
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 256
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 257
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 258
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 259
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 260
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 261
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 262
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 263
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 264
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 265
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/1x1_cube.uasset" 266
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeaconDirection.uasset" 267
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeamMesh.uasset" 268
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 269
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 270
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_MotionController_Right.uasset" 271
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_FloatBar.uasset" 272
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetFloatBar.uasset" 273
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_Int.uasset" 274
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetIntBack.uasset" 275
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_IntBar.uasset" 276
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetIntBar.uasset" 277
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 278
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 279
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Map/Map1_BuiltData.uasset" 280
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 281
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 282
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Map/Map1.umap" 283
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 284
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 285
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 286
+"../../../Engine/Content/Maps/Entry.umap" 287

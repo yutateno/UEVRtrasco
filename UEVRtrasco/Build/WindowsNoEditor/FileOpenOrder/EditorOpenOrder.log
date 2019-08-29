@@ -1893,165 +1893,214 @@
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1893
 "../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Intermediate/AssetRegistryCache/311563bb.bin" 1894
 "../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Intermediate/AssetRegistryCache/c90e3f55.bin" 1895
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 1896
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1897
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1898
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1899
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1900
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1901
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1902
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1903
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1904
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1905
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1906
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1907
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1908
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1909
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1910
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1911
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1912
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1913
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 1914
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1915
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1916
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1917
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1918
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1919
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1920
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1921
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1922
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1923
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 1924
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1925
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1926
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1927
-"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1928
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1929
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Intermediate/AssetRegistryCache/8e905653.bin" 1930
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1931
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/StartupMap.umap" 1932
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 1933
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 1934
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 1935
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 1936
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 1937
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 1938
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1939
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 1940
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 1941
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/TeleportMCP.uasset" 1942
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 1943
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 1944
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 1945
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 1946
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 1947
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 1948
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1949
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 1950
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 1951
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1952
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1953
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 1954
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 1955
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/1x1_cube.uasset" 1956
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeaconDirection.uasset" 1957
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/GenericHMD.uasset" 1958
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 1959
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1960
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1961
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5CC6C1172AAE27D489A3833F693A9A2A9472FCC5.udd" 1962
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___4BC364B8D53162C382EE94344FAE00A51379E11F.udd" 1963
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___82A7D8CBD7D23A5295B59BB7A0CD69366C49C9FC.udd" 1964
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8A3960EE4C8E110D5B2516579619AE0A32B667DD.udd" 1965
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A95B2C09CD8A2B394DDEAFBDF50D7C26EF3534FF.udd" 1966
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CD470B41CC34C803B3CC81E981350A0A44B56889.udd" 1967
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1968
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3070BA3F2E499B7E7A641484D10E120C69949B0D.udd" 1969
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___1AB70A58E1A39B8765BD2C94DD79EC6D1FCF036C.udd" 1970
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5B6E6815BAA5B3CF859FA7B4772475E3DD28229C.udd" 1971
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5C10881CDE67933B356652252A011976C0B81CEE.udd" 1972
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E8A0C998658C71670BBA9661F19AB6990EE7C078.udd" 1973
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2BCB0E812C4F13951BD5BA85BF44C0EEFC7B1828.udd" 1974
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3346C57DF4755BFB4FA2181EC796935E51526AF7.udd" 1975
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___06CE9CC49DF954B0EB23909A5241FD4B2FF4E44B.udd" 1976
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1977
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1978
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F91CF529985A8DC6026112E0894E2CE3D72B85DA.udd" 1979
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___C8E079484484198F9A45D846D34CEEDD8D32AEDC.udd" 1980
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6D06FF2FB83610408A215A056285E28813847B96.udd" 1981
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___259827985A48C61357E6821B0754776859EF80D7.udd" 1982
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A868A31F7FCB89CA6B557096BCBA54C3035B21D4.udd" 1983
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6A7027AA9D8C9004AE4BC75AB90DC1C2575F7B13.udd" 1984
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___153F99A95FE2E5072B1A0F9A758570169FB90F16.udd" 1985
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6B24F1611A575DF00F3FA31E2A8EBBD43765501D.udd" 1986
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___B286F86E1614F4C2CF854E8DB42A3007F7307865.udd" 1987
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3BDBDAE4D19A34E47E25C354714F996A72EAFD3C.udd" 1988
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D03954186DDD1AB237C71262EEFD3932714E3BFA.udd" 1989
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2C948B7361F662CDF136C11693DB237F69F8FAE3.udd" 1990
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___241F3FF79B396869D08BBDF951490410BF078D54.udd" 1991
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1992
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___669FC9364CCBC1F6ADDD6725281AA5F9E0B08B59.udd" 1993
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F5E6E002B2743860E58CE3D7658790966DA5EDA5.udd" 1994
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___69CECF09A8A84AFAC2D85ED1977E86146024F58A.udd" 1995
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8BF4A83A232503323AEB302143EC871FAD2CEC66.udd" 1996
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___C428EDB6B35FAB90F035B94EA260F4056A0D8BFF.udd" 1997
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___414BE9335326889CEA06BAC078DAE27F7A5FD37B.udd" 1998
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1999
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E555F9D8F6CE5B9088889B6AE11B93CF46EF5BB1.udd" 2000
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2001
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2002
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___59E62E4D1342537FADB6D9B7B542CFD2DE26E24F.udd" 2003
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2004
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___BABA37DC4988FA822783E0D49E7F491E19B99DD1.udd" 2005
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2006
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2007
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6EB7433385245332F0924B7BD512A7B6BA4722DB.udd" 2008
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2009
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2010
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2011
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2012
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2013
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2014
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2015
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2016
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2017
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2018
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2019
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2020
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2021
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2022
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2023
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2024
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2025
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2026
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2027
-"../../../Engine/Content/Maps/Entry.umap" 2028
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2029
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2030
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2031
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2032
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2033
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2034
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2035
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2036
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2037
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2038
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2039
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 2040
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 2041
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 2042
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Geometry/Meshes/1M_Cube.uasset" 2043
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Geometry/Meshes/CubeMaterial.uasset" 2044
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 2045
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 2046
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 2047
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 2048
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 2049
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 2050
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 2051
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 2052
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 2053
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 2054
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeamMesh.uasset" 2055
-"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 2056
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CB56F953DAD045420E8AEB10E44EEF63A7C167C2.udd" 2057
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_CubeInt.uasset" 1896
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_MotionController_Left.uasset" 1897
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_MotionController_Right.uasset" 1898
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_Timer.uasset" 1899
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetFloat.uasset" 1900
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetFloatBack.uasset" 1901
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetFloatBar.uasset" 1902
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetInt.uasset" 1903
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetIntBack.uasset" 1904
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetIntBar.uasset" 1905
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/BP_WidgetTest.uasset" 1906
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Map/Map1.umap" 1907
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Map/Map1_BuiltData.uasset" 1908
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/BP_WidgetInt.uasset" 1909
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/BP_WidgetTimer.uasset" 1910
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_Float.uasset" 1911
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_FloatBar.uasset" 1912
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_Int.uasset" 1913
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/Widget_IntBar.uasset" 1914
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 1915
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 1916
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 1917
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1918
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1919
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1920
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1921
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1922
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1923
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1924
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1925
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1926
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1927
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1928
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1929
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1930
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1931
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1932
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1933
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1934
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 1935
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1936
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1937
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1938
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1939
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1940
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1941
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1942
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1943
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1944
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 1945
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1946
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1947
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1948
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1949
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1950
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Intermediate/AssetRegistryCache/8e905653.bin" 1951
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1952
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1953
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1954
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1955
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1956
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1957
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1958
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1959
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1960
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1961
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1962
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 1963
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 1964
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 1965
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Geometry/Meshes/1M_Cube.uasset" 1966
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Geometry/Meshes/CubeMaterial.uasset" 1967
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 1968
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 1969
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 1970
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 1971
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 1972
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 1973
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 1974
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 1975
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 1976
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 1977
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 1978
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 1979
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 1980
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1981
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 1982
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 1983
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/TeleportMCP.uasset" 1984
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 1985
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 1986
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 1987
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 1988
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 1989
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 1990
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1991
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1992
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 1993
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/1x1_cube.uasset" 1994
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeaconDirection.uasset" 1995
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/BeamMesh.uasset" 1996
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 1997
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 1998
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 1999
+"../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 2000
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_219D93EE4D309647970158B3BA99402F__1_0_0_0_2_13315_0.udd" 2001
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_CAA5B13C4A30FC0E3834A18F73F9FD0B__1_0_0_0_3_13315_0.udd" 2002
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_2CEBAB144EDBDB7CEB895BB57A595E49__1_0_0_0_3_13315_0.udd" 2003
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_2815F09043D941AD37A68B92B1C5B86B__1_0_0_0_3_13315_0.udd" 2004
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_CFDBB726491D01B376CB99A402922180__1_0_0_0_3_13315_0.udd" 2005
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_86CF20F94D02435FEDFE699E1E777AEF__1_0_0_0_3_13315_0.udd" 2006
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_FB38DCC94E924D09A8F9E3A5FDEE3D3F__1_0_0_0_3_13315_0.udd" 2007
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_D3D1FE7842B5DCFFAE7F36A71E0CC02C__1_0_0_0_2_13315_0.udd" 2008
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_93C75F414A20A9B1C239B3934D7F3AC8__1_0_0_0_2_13315_0.udd" 2009
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_E42FFC36417428B11F6EC5AAEC7559F1__1_0_0_0_2_13315_0.udd" 2010
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_65363A3C402C2C396FD32BAA062D2F9D__1_0_0_0_2_13315_0.udd" 2011
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2012
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2013
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5CC6C1172AAE27D489A3833F693A9A2A9472FCC5.udd" 2014
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___4BC364B8D53162C382EE94344FAE00A51379E11F.udd" 2015
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___82A7D8CBD7D23A5295B59BB7A0CD69366C49C9FC.udd" 2016
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8A3960EE4C8E110D5B2516579619AE0A32B667DD.udd" 2017
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A95B2C09CD8A2B394DDEAFBDF50D7C26EF3534FF.udd" 2018
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CD470B41CC34C803B3CC81E981350A0A44B56889.udd" 2019
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___1AB70A58E1A39B8765BD2C94DD79EC6D1FCF036C.udd" 2020
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 2021
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3070BA3F2E499B7E7A641484D10E120C69949B0D.udd" 2022
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5B6E6815BAA5B3CF859FA7B4772475E3DD28229C.udd" 2023
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5C10881CDE67933B356652252A011976C0B81CEE.udd" 2024
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E8A0C998658C71670BBA9661F19AB6990EE7C078.udd" 2025
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2BCB0E812C4F13951BD5BA85BF44C0EEFC7B1828.udd" 2026
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3346C57DF4755BFB4FA2181EC796935E51526AF7.udd" 2027
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___06CE9CC49DF954B0EB23909A5241FD4B2FF4E44B.udd" 2028
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2029
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2030
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F91CF529985A8DC6026112E0894E2CE3D72B85DA.udd" 2031
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___C8E079484484198F9A45D846D34CEEDD8D32AEDC.udd" 2032
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6D06FF2FB83610408A215A056285E28813847B96.udd" 2033
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___259827985A48C61357E6821B0754776859EF80D7.udd" 2034
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A868A31F7FCB89CA6B557096BCBA54C3035B21D4.udd" 2035
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6A7027AA9D8C9004AE4BC75AB90DC1C2575F7B13.udd" 2036
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___153F99A95FE2E5072B1A0F9A758570169FB90F16.udd" 2037
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6B24F1611A575DF00F3FA31E2A8EBBD43765501D.udd" 2038
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___B286F86E1614F4C2CF854E8DB42A3007F7307865.udd" 2039
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3BDBDAE4D19A34E47E25C354714F996A72EAFD3C.udd" 2040
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D03954186DDD1AB237C71262EEFD3932714E3BFA.udd" 2041
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2C948B7361F662CDF136C11693DB237F69F8FAE3.udd" 2042
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___241F3FF79B396869D08BBDF951490410BF078D54.udd" 2043
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2044
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___669FC9364CCBC1F6ADDD6725281AA5F9E0B08B59.udd" 2045
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F5E6E002B2743860E58CE3D7658790966DA5EDA5.udd" 2046
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___69CECF09A8A84AFAC2D85ED1977E86146024F58A.udd" 2047
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8BF4A83A232503323AEB302143EC871FAD2CEC66.udd" 2048
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___C428EDB6B35FAB90F035B94EA260F4056A0D8BFF.udd" 2049
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___414BE9335326889CEA06BAC078DAE27F7A5FD37B.udd" 2050
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CB56F953DAD045420E8AEB10E44EEF63A7C167C2.udd" 2051
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2052
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E555F9D8F6CE5B9088889B6AE11B93CF46EF5BB1.udd" 2053
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2054
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2055
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___59E62E4D1342537FADB6D9B7B542CFD2DE26E24F.udd" 2056
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_F3E567904050BA88A6603C9E6F8AD__710C85A714A9AF6A558422BC553E53746CA91C1B.udd" 2057
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E938881F4CC21418E498EA8EE74BD__87F76968D5CC98BB157AE008C0359DE71097F70E.udd" 2058
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5B5BF0FE46A4E118AC651FBB6451581F__EAF0ADE93E94BCC74E47CCB1ADB2DDE1F8E03D88.udd" 2059
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0A8CD2C948852169822543B6A01447FA__0BA9ED98F88F36B884ED2D897260BF8CC0E4219A.udd" 2060
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5B5BF0FE46A4E118AC651FBB6451581F__3D856E9641CD11A54507C35733EB6BFCCF55FA5B.udd" 2061
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_87E18FC34D0FB706B7C442A162F976AB_0__F5C3BA94DDAAB17E8BF15737BFA136B5C22FEF27.udd" 2062
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E938881F4CC21418E498EA8EE74BD__5E33AE30A57FDFA775D187FEEE2E4822D963D433.udd" 2063
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5B5BF0FE46A4E118AC651FBB6451581F__95179BC6FE39F79D3BF5465EA0DFF35EAA397F0E.udd" 2064
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E938881F4CC21418E498EA8EE74BD__BEEB969E6EC850F35C08AD8BBA08A522E15941A5.udd" 2065
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5B5BF0FE46A4E118AC651FBB6451581F__DF686F7BEC65E21862BE735D4F84FBEF6FB04E47.udd" 2066
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E938881F4CC21418E498EA8EE74BD__9F00E990E68BB4E25868D8AFDDE83827423DFC74.udd" 2067
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5B5BF0FE46A4E118AC651FBB6451581F__63CDC328114FE3864E73CC4C4F685A5786FA0233.udd" 2068
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_2D9F432B4564587783E9D6907FCDA396_0__26FC6FF37DE5B9EB63CE88C2C067CEDE391C8850.udd" 2069
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E938881F4CC21418E498EA8EE74BD__F289A946036FAB989427FCDE6F26BA20696599E7.udd" 2070
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_2D9F432B4564587783E9D6907FCDA396_0__C154EDBE58CAE6225B5965CF53AB036EC9E6A23A.udd" 2071
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_2D9F432B4564587783E9D6907FCDA396_0__5681E607743C4C1BFB87764200CC885D9FE222A8.udd" 2072
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_2D9F432B4564587783E9D6907FCDA396_0__D11D712105B4859D5E62837FAD4453CD00D4ECAB.udd" 2073
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_2D9F432B4564587783E9D6907FCDA396_0__5048BD635F1CC638FB0A559B3DAFFF5F0D4DC505.udd" 2074
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2075
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___BABA37DC4988FA822783E0D49E7F491E19B99DD1.udd" 2076
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2077
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2078
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6EB7433385245332F0924B7BD512A7B6BA4722DB.udd" 2079
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2080
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2081
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2082
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2083
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2084
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2085
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2086
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2087
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2088
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2089
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2090
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2091
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2092
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2093
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2094
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2095
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2096
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2097
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2098
+"../../../Engine/Content/Maps/Entry.umap" 2099
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2100
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_BCCD11734072DE14E5415B97BA11630D__1_0_0_0_3_13315_0.udd" 2101
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_2928633B43EF0596317E06ABA599A975__1_0_0_0_3_13315_0.udd" 2102
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_20D2407E40F552EB565C3B8159EB77D5__1_0_0_0_3_13315_0.udd" 2103
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_4B81A6CF4E41E765146AE9A295048A78__1_0_0_0_3_13315_0.udd" 2104
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_EFA5C1474F8EF80DE68B8189681194E0__1_0_0_0_3_13315_0.udd" 2105
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_9353A96F4763CDF49783A08FBFB6FC2A__1_0_0_0_3_13315_0.udd" 2106

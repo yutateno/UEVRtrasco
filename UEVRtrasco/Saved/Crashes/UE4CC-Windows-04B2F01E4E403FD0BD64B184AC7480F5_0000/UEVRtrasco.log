@@ -1,0 +1,1356 @@
+﻿Log file open, 08/29/19 17:14:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UEVRtrasco
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.716008
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.29-08.14.09:096][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.29-08.14.09:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:097][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:132][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.29-08.14.09:132][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.29-08.14.09:133][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.29-08.14.09:143][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.29-08.14.09:143][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.29-08.14.09:233][  0]LogHAL: Display: Platform has ~ 8 GB [8543051776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.29-08.14.09:238][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.29-08.14.09:238][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.29-08.14.09:239][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.29-08.14.09:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.29-08.14.09:240][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.29-08.14.09:251][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.29-08.14.09:251][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.29-08.14.09:251][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.08.29-08.14.09:265][  0]LogInit: Computer: MYCOMPUTER
+[2019.08.29-08.14.09:265][  0]LogInit: User: kingw
+[2019.08.29-08.14.09:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.29-08.14.09:265][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.29-08.14.09:266][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.08.29-08.14.09:266][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.29-08.14.09:266][  0]LogMemory: Process Physical Memory: 97.23 MB used, 97.23 MB peak
+[2019.08.29-08.14.09:266][  0]LogMemory: Process Virtual Memory: 92.21 MB used, 92.21 MB peak
+[2019.08.29-08.14.09:266][  0]LogMemory: Physical Memory: 3882.48 MB used,  4264.81 MB free, 8147.29 MB total
+[2019.08.29-08.14.09:266][  0]LogMemory: Virtual Memory: 4647.23 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.08.29-08.14.10:030][  0]LogInit: Using OS detected language (ja-JP).
+[2019.08.29-08.14.10:030][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.08.29-08.14.10:078][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.08.29-08.14.10:571][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.29-08.14.11:036][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.29-08.14.11:036][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.29-08.14.22:177][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.08.29-08.14.22:177][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.29-08.14.22:296][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.08.29-08.14.22:296][  0]LogD3D11RHI:       2988/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.29-08.14.22:299][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.29-08.14.22:299][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.29-08.14.22:299][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.29-08.14.22:719][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.29-08.14.22:719][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.29-08.14.22:719][  0]LogWindows: EnumDisplayDevices:
+[2019.08.29-08.14.22:719][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.08.29-08.14.22:720][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.08.29-08.14.22:720][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.08.29-08.14.22:720][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.08.29-08.14.22:720][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.29-08.14.22:720][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.08.29-08.14.22:720][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.08.29-08.14.22:720][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.08.29-08.14.22:720][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.08.29-08.14.23:316][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.29-08.14.23:652][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.29-08.14.23:657][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.29-08.14.23:657][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.29-08.14.23:694][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.29-08.14.24:826][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.29-08.14.24:902][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.29-08.14.24:935][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.29-08.14.24:978][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.29-08.14.25:025][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.29-08.14.25:108][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.29-08.14.25:152][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.29-08.14.25:198][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.29-08.14.25:253][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.29-08.14.25:448][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.29-08.14.25:477][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.29-08.14.25:693][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.29-08.14.25:694][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.29-08.14.25:748][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.29-08.14.25:748][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.29-08.14.25:789][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.29-08.14.25:830][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.29-08.14.25:880][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.29-08.14.25:935][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.29-08.14.26:036][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.29-08.14.26:037][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.29-08.14.26:037][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.29-08.14.26:987][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.29-08.14.28:295][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Intermediate/Shaders/WorkingDirectory/836/).
+[2019.08.29-08.14.28:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/8AF0122B4A29AF188D252F9407FD632B/'.
+[2019.08.29-08.14.28:333][  0]LogXGEController: Cleaning working directory: C:/Users/kingw/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.29-08.14.28:333][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.29-08.14.28:333][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.29-08.14.28:333][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.29-08.14.37:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.29-08.14.38:195][  0]LogDerivedDataCache: Loaded boot cache 0.65s 100MB C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.29-08.14.38:195][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.29-08.14.38:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.29-08.14.38:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.29-08.14.38:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.29-08.14.38:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.29-08.14.38:239][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.29-08.14.38:293][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.08.29-08.14.38:306][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.29-08.14.38:306][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.29-08.14.38:306][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.29-08.14.38:345][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.29-08.14.38:414][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.29-08.14.38:512][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.29-08.14.40:094][  0]LogAssetRegistry: FAssetRegistry took 0.0401 seconds to start up
+[2019.08.29-08.14.46:373][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.29-08.14.48:100][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.29-08.14.48:100][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.29-08.14.48:100][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.29-08.14.48:100][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.29-08.14.48:100][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.29-08.14.48:557][  0]LogNetVersion: UEVRtrasco 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1162023569)
+[2019.08.29-08.14.53:731][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.178764 seconds
+[2019.08.29-08.14.53:795][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.29-08.14.53:795][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.29-08.14.53:795][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.29-08.15.13:703][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.29-08.15.13:745][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.29-08.15.14:654][  0]SourceControl: ソースコントロールは無効です
+[2019.08.29-08.15.14:675][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.08.29-08.15.14:675][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.08.29-08.15.14:675][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.08.29-08.15.14:676][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.08.29-08.15.14:676][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.08.29-08.15.14:676][  0]LogWindows: Warning: URL: C:\Users\kingw\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.08.29-08.15.14:676][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.08.29-08.15.14:676][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.08.29-08.15.14:677][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.08.29-08.15.14:677][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.08.29-08.15.18:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.29-08.15.18:327][  0]LogOcInput: OculusInput pre-init called
+[2019.08.29-08.15.24:194][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.08.29-08.15.24:194][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.08.29-08.15.24:195][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.08.29-08.15.24:195][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.08.29-08.15.26:080][  0]LogEngine: Initializing Engine...
+[2019.08.29-08.15.31:583][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.08.29-08.15.31:932][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.318 s
+[2019.08.29-08.15.33:095][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.29-08.15.33:771][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.29-08.15.34:066][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.29-08.15.34:124][  0]LogInit: FAudioDevice initialized.
+[2019.08.29-08.15.34:124][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.29-08.15.34:337][  0]LogDerivedDataCache: Saved boot cache 0.21s 89MB C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.29-08.15.34:355][  0]LogInit: Texture streaming: Enabled
+[2019.08.29-08.15.34:640][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.29-08.15.34:964][  0]LogInit: Transaction tracking system initialized
+[2019.08.29-08.15.35:373][  0]BlueprintLog: New page: エディタの読み込み
+[2019.08.29-08.15.36:767][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.08.29-08.15.41:756][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/' took 0.11s
+[2019.08.29-08.15.41:756][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.29-08.15.41:757][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.29-08.15.47:848][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Map/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.29-08.15.47:871][  0]LightingResults: New page: ライティングのビルド
+[2019.08.29-08.15.48:015][  0]MapCheck: New page: マップをチェック
+[2019.08.29-08.15.48:015][  0]LightingResults: New page: ライティングのビルド
+[2019.08.29-08.15.48:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took  11.60ms
+[2019.08.29-08.15.53:795][  0]LogAIModule: Creating AISystem for world Map1
+[2019.08.29-08.15.54:413][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.29-08.15.54:586][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.08.29-08.15.54:607][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.29-08.15.54:616][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.144ミリ秒かかりました。
+[2019.08.29-08.15.54:616][  0]LogFileHelpers: Loading map 'Map1' took 6.782
+[2019.08.29-08.15.56:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.29-08.15.56:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.29-08.15.56:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.29-08.15.56:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.29-08.15.56:831][  0]LogCollectionManager: Loaded 0 collections in 0.001233 seconds
+[2019.08.29-08.15.57:027][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Collections/' took 0.01s
+[2019.08.29-08.15.57:027][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Developers/kingw/Collections/' took 0.01s
+[2019.08.29-08.15.57:027][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Collections/' took 0.01s
+[2019.08.29-08.15.57:027][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.29-08.15.57:040][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2864 classes and 726 folders.
+[2019.08.29-08.15.57:197][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.29-08.15.57:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.57:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.29-08.15.58:686][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.29-08.15.58:741][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.08.29-08.15.59:655][  0]LogSlate: Took 0.017905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.29-08.15.59:713][  0]LogSlate: Took 0.017635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.08.29-08.15.59:747][  0]LogSlate: Took 0.016743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.08.29-08.15.59:768][  0]LogSlate: Took 0.021169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.29-08.15.59:887][  0]LogSlate: Took 0.014625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.29-08.16.00:456][  0]LogRenderer: Reallocating scene render targets to support 1216x572 Format 26 NumSamples 1 (Frame:1).
+[2019.08.29-08.16.01:457][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.08.29-08.16.01:457][  0]LogLoad: (Engine Initialization) Total time: 129.27 seconds
+[2019.08.29-08.16.01:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.29-08.16.02:097][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.29-08.16.02:323][  0]LogSlate: Took 0.023260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.29-08.16.02:948][  2]LogAssetRegistry: Asset discovery search completed in 82.8796 seconds
+[2019.08.29-08.16.02:966][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.29-08.16.02:966][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.004905 seconds (updated 0 objects)
+[2019.08.29-08.16.03:130][  2]LogSlate: Took 0.026422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.08.29-08.16.03:131][  2]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.29-08.16.43:599][126]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoBold.RobotoBold', Character: 'テ (U+30c6)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.08.29-08.16.43:642][126]LogSlate: Took 0.043201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.29-08.16.49:200][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.29-08.16.50:378][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.16.56:186][174]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2019.08.29-08.17.02:334][718]Cmd: TRANSACTION UNDO
+[2019.08.29-08.17.02:334][718]LogEditorTransaction: Undo アクタ を移動
+[2019.08.29-08.25.10:636][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.25.10:940][864]LogActorFactory: Actor Factory created Cube
+[2019.08.29-08.25.14:290][189]LogActorFactory: Actor Factory created Cube
+[2019.08.29-08.25.35:965][443]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObject_C (BP_FirstObject)
+[2019.08.29-08.25.39:891][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-08.26.48:289][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.08.29-08.27.22:848][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.27.24:023][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.08.29-08.27.25:562][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.27.26:495][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.08.29-08.27.27:673][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.27.28:416][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-08.27.56:043][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.29-08.27.56:123][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.08.29-08.27.56:977][398]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto10FA193E94AA5DCFFD802D8B0FDE0AB9B.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto1.umap'
+[2019.08.29-08.27.56:998][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.917
+[2019.08.29-08.27.56:999][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.917
+[2019.08.29-08.27.57:521][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.28.10:157][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.28.31:313][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-08.29.20:063][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.29.48:311][ 95]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectDo.Widget_FirstObjectDo
+[2019.08.29-08.29.49:402][ 95]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.08.29-08.29.50:963][ 95]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.08.29-08.29.52:000][ 95]LogSlate: Took 0.016571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.29-08.29.52:024][ 95]LogSlate: Took 0.024812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2019.08.29-08.29.54:253][282]LogSlate: Window 'Widget_FirstObjectDo' being destroyed
+[2019.08.29-08.34.02:062][123]LogHttp: Warning: 000001E68E6D4900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e6539fbf70 [can pipeline])
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.81.26) port 443 (#6))
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.29-08.34.02:063][123]LogHttp: Warning: 000001E68E6D4900: libcurl info message cache 7 (Closing connection 6)
+[2019.08.29-08.34.02:364][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6580C3EA-4994-488A-F400-3488A2B7273F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=580144b44e2198be714b72b87c26e6b0%7C527a58163b7f46c2907719585f422cb1%7C7df650a5-19d5-45d9-8409-d917267140ce&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.29-08.36.33:904][ 76]LogEditorTransaction: Undo アクタをクリック
+[2019.08.29-08.37.22:601][569]BlueprintLog: New page: Widget_FirstObjectDo をコンパイル
+[2019.08.29-08.37.22:932][569]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.08.29-08.37.25:968][896]BlueprintLog: New page: Widget_FirstObjectDo をコンパイル
+[2019.08.29-08.37.26:040][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.08.29-08.37.29:825][299]BlueprintLog: New page: Widget_FirstObjectDo をコンパイル
+[2019.08.29-08.37.29:875][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.08.29-08.37.35:915][942]BlueprintLog: New page: Widget_FirstObjectDo をコンパイル
+[2019.08.29-08.37.35:976][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.08.29-08.37.38:351][189]BlueprintLog: New page: Widget_FirstObjectDo をコンパイル
+[2019.08.29-08.37.38:408][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.08.29-08.37.42:247][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectDo.BP_Cube_FirstObjectDo
+[2019.08.29-08.37.43:919][566]LogSlate: Took 0.108269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.29-08.37.44:672][644]LogRenderer: Reallocating scene render targets to support 1216x692 Format 26 NumSamples 1 (Frame:1).
+[2019.08.29-08.37.53:323][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.29-08.38.34:043][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.38.53:142][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.39.01:348][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.39.01:441][667]BlueprintLog: New page: BP_Cube_FirstObjectDo をコンパイル
+[2019.08.29-08.39.01:711][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.08.29-08.39.07:158][137]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectDo_C (BP_Cube_FirstObjectDo)
+[2019.08.29-08.39.15:259][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.29-08.39.17:160][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.39.26:604][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset
+[2019.08.29-08.39.41:691][269]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectReset.Widget_FirstObjectReset
+[2019.08.29-08.39.59:182][209]BlueprintLog: New page: Widget_FirstObjectReset をコンパイル
+[2019.08.29-08.39.59:422][209]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.08.29-08.40.47:294][616]BlueprintLog: New page: BP_Cube_FirstObjectReset をコンパイル
+[2019.08.29-08.40.47:545][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.08.29-08.40.53:596][201]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd
+[2019.08.29-08.40.58:426][638]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_FirstObject.BP_FirstObject
+[2019.08.29-08.41.35:942][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.08.29-08.41.36:299][127]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto278E64A87437FFA2D986121A15B3376FB.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto2.umap'
+[2019.08.29-08.41.36:303][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.432
+[2019.08.29-08.41.36:303][127]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.432
+[2019.08.29-08.41.36:308][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo] ([1] browsable assets)...
+[2019.08.29-08.41.36:341][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectDo.BP_Cube_FirstObjectDo]
+[2019.08.29-08.41.36:341][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo]
+[2019.08.29-08.41.36:462][127]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectDo_Auto25D859C4543395CB94D53ACBED81C09B1.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo_Auto2.uasset'
+[2019.08.29-08.41.36:463][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-08.41.36:476][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset]
+[2019.08.29-08.41.36:476][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset]
+[2019.08.29-08.41.36:547][127]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectReset_Auto2928616A34D2724135AC2B6ADFBBD1BF3.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset_Auto2.uasset'
+[2019.08.29-08.41.36:549][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectDo] ([1] browsable assets)...
+[2019.08.29-08.41.36:549][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectDo]
+[2019.08.29-08.41.36:566][127]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectDo_Auto23C60DF1045F2C215866BE2A40837873B.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectDo_Auto2.uasset'
+[2019.08.29-08.41.36:567][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-08.41.36:567][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectReset]
+[2019.08.29-08.41.36:589][127]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectReset_Auto247E8DCEA42A71294CDE173AC889C3546.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectReset_Auto2.uasset'
+[2019.08.29-08.41.36:590][127]LogFileHelpers: Auto-saving content packages took 0.283
+[2019.08.29-08.43.55:149][374]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.29-08.44.04:429][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.44.21:922][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.44.22:028][137]BlueprintLog: New page: BP_Cube_FirstObjectReset をコンパイル
+[2019.08.29-08.44.22:302][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.08.29-08.44.23:969][279]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectReset_C (BP_Cube_FirstObjectReset)
+[2019.08.29-08.44.31:973][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.44.39:009][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.44.54:306][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.45.07:363][786]BlueprintLog: New page: Widget_FirstObjectReset をコンパイル
+[2019.08.29-08.45.07:667][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.08.29-08.45.17:428][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.45.17:532][787]BlueprintLog: New page: BP_Cube_FirstObjectReset をコンパイル
+[2019.08.29-08.45.17:832][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.08.29-08.51.36:973][229]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.08.29-08.51.37:360][229]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto33B2EE4034F90DB3641354C8D26E231F9.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto3.umap'
+[2019.08.29-08.51.37:364][229]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.467
+[2019.08.29-08.51.37:364][229]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.467
+[2019.08.29-08.51.37:370][229]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo] ([1] browsable assets)...
+[2019.08.29-08.51.37:384][229]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectDo.BP_Cube_FirstObjectDo]
+[2019.08.29-08.51.37:384][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo]
+[2019.08.29-08.51.37:437][229]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectDo_Auto30832763D4F4D86B72D9E8E9545EE0AB3.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo_Auto3.uasset'
+[2019.08.29-08.51.37:439][229]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-08.51.37:452][229]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset]
+[2019.08.29-08.51.37:452][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset]
+[2019.08.29-08.51.37:514][229]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectReset_Auto398B244EF48A2D439126F31AB01DCAFF4.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset_Auto3.uasset'
+[2019.08.29-08.51.37:518][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-08.51.37:518][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectReset]
+[2019.08.29-08.51.37:537][229]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectReset_Auto3AB587DE34EE75D302F666B9D4282DE34.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectReset_Auto3.uasset'
+[2019.08.29-08.51.37:539][229]LogFileHelpers: Auto-saving content packages took 0.170
+[2019.08.29-08.52.11:029][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.52.25:806][346]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd
+[2019.08.29-08.52.59:549][ 19]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.29-08.53.07:869][835]LogSlate: Took 0.083272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2019.08.29-08.53.30:669][ 95]LogEditorTransaction: Undo コンポーネントを修正
+[2019.08.29-08.53.33:079][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.53.38:308][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.53.41:552][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.53.50:783][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.53.51:760][243]BlueprintLog: New page: Widget_FirstObjectAdd をコンパイル
+[2019.08.29-08.53.52:079][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.08.29-08.53.56:315][666]BlueprintLog: New page: BP_Cube_FirstObjectAdd をコンパイル
+[2019.08.29-08.53.56:580][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.08.29-08.54.06:378][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.54.06:474][648]BlueprintLog: New page: BP_Cube_FirstObjectAdd をコンパイル
+[2019.08.29-08.54.06:759][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.08.29-08.54.07:829][727]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.08.29-08.54.15:541][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-08.54.16:217][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.29-09.01.37:900][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.08.29-09.01.38:253][935]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto41093B9864895285BCC494899B344F228.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto4.umap'
+[2019.08.29-09.01.38:256][935]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.420
+[2019.08.29-09.01.38:256][935]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.420
+[2019.08.29-09.01.38:258][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd] ([1] browsable assets)...
+[2019.08.29-09.01.38:276][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd]
+[2019.08.29-09.01.38:276][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd]
+[2019.08.29-09.01.38:321][935]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectAdd_Auto4AE905BD747FA69794B702DB8D07DB381.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd_Auto4.uasset'
+[2019.08.29-09.01.38:323][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-09.01.38:341][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset]
+[2019.08.29-09.01.38:341][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset]
+[2019.08.29-09.01.38:400][935]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectReset_Auto49AA76DFF4313022EFB994D94232BC4DE.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset_Auto4.uasset'
+[2019.08.29-09.01.38:401][935]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectAdd] ([1] browsable assets)...
+[2019.08.29-09.01.38:401][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectAdd]
+[2019.08.29-09.01.38:421][935]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectAdd_Auto492480FA1460660BA089EF09FA4ECB6FA.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectAdd_Auto4.uasset'
+[2019.08.29-09.01.38:422][935]LogFileHelpers: Auto-saving content packages took 0.164
+[2019.08.29-09.04.19:218][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.08.29-09.04.36:518][ 22]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.36:518][ 22]LogEditorTransaction: Undo アクタ をスケール
+[2019.08.29-09.04.37:141][ 75]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.37:141][ 75]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.37:703][137]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.37:704][137]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.39:012][288]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.39:012][288]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.40:059][409]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.40:059][409]LogEditorTransaction: Undo アクタ をスケール
+[2019.08.29-09.04.40:902][505]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.40:903][505]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.42:769][721]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.42:769][721]LogEditorTransaction: Redo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.43:134][759]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.43:134][759]LogEditorTransaction: Redo アクタ をスケール
+[2019.08.29-09.04.43:977][855]Cmd: TRANSACTION UNDO
+[2019.08.29-09.04.43:977][855]LogEditorTransaction: Undo アクタ をスケール
+[2019.08.29-09.04.49:207][452]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.49:207][452]LogEditorTransaction: Redo アクタ をスケール
+[2019.08.29-09.04.49:398][469]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.49:398][469]LogEditorTransaction: Redo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.49:569][482]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.49:569][482]LogEditorTransaction: Redo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.49:728][495]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.49:728][495]LogEditorTransaction: Redo アニメート可能なプロパティを変更しました
+[2019.08.29-09.04.49:893][513]Cmd: TRANSACTION REDO
+[2019.08.29-09.04.49:893][513]LogEditorTransaction: Redo アクタ をスケール
+[2019.08.29-09.04.53:094][845]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectDo_C (BP_Cube_FirstObjectDo)
+[2019.08.29-09.04.54:209][966]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.08.29-09.04.55:203][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.05.05:696][141]Cmd: TRANSACTION UNDO
+[2019.08.29-09.05.05:696][141]LogEditorTransaction: Undo アクタ をスケール
+[2019.08.29-09.05.07:691][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.05.31:395][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.05.38:809][558]Cmd: TRANSACTION UNDO
+[2019.08.29-09.05.38:809][558]LogEditorTransaction: Undo Set Location
+[2019.08.29-09.05.40:808][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.05.50:680][728]Cmd: TRANSACTION UNDO
+[2019.08.29-09.05.50:680][728]LogEditorTransaction: Undo ブラシサーフェスを選択
+[2019.08.29-09.05.51:422][782]Cmd: TRANSACTION UNDO
+[2019.08.29-09.05.51:422][782]LogEditorTransaction: Undo Set Location
+[2019.08.29-09.05.54:321][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.06.01:888][833]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectDo_C (BP_Cube_FirstObjectDo)
+[2019.08.29-09.06.03:025][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.06.08:389][485]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectReset_C (BP_Cube_FirstObjectReset)
+[2019.08.29-09.06.10:009][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.08.16:107][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.08.21:495][156]LogSlate: Window '親クラスを選択' being destroyed
+[2019.08.29-09.08.44:168][730]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_CubeFirstObjectINT.BP_CubeFirstObjectINT
+[2019.08.29-09.09.15:029][953]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.08.29-09.09.18:607][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-09.09.20:996][514]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.08.29-09.09.22:248][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.09.26:161][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-09.09.29:813][423]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.08.29-09.09.53:931][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.09.55:684][998]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum.Widget_FirstObjectMoveNum
+[2019.08.29-09.10.16:818][384]BlueprintLog: New page: Widget_FirstObjectMoveNum をコンパイル
+[2019.08.29-09.10.17:175][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.08.29-09.10.24:987][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.10.30:804][767]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_FirstObjectAddNum.BP_FirstObjectAddNum
+[2019.08.29-09.10.38:250][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.10.52:442][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.10.57:625][795]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.29-09.11.00:179][ 43]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.29-09.11.01:556][180]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.29-09.11.45:227][623]LogAssetEditorManager: Opening Asset editor for Material /Game/My/Material/M_INTMETAL.M_INTMETAL
+[2019.08.29-09.11.45:259][623]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.11.45:601][623]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.11.46:950][623]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.11.46:970][623]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.11.48:885][797]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.11.50:955][ 16]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.11.50:981][ 16]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.08.29-09.11.52:816][199]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.11.56:751][618]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.11.56:773][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.08.29-09.11.58:435][798]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.11.59:476][913]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.11.59:500][913]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.08.29-09.12.00:298][994]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.00:321][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.08.29-09.12.00:349][994]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.08.29-09.12.01:707][148]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.02:107][193]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.02:132][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.08.29-09.12.02:996][286]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.04:686][474]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.06:447][672]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.06:506][678]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.07:406][775]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.09:618][ 20]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.09:635][ 20]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.09:882][ 47]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.10:498][117]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.10:826][152]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.11:642][242]LogMaterialEditor: Applying material M_INTMETAL
+[2019.08.29-09.12.12:157][242]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.12:237][242]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.12:258][242]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.12:265][242]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.12:423][242]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2019.08.29-09.12.12:444][242]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.12.15:898][242]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.29-09.12.15:898][242]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.29-09.12.15:901][242]TextureStreamingBuild: Display: Compiling optional shaders took 3.478 seconds.
+[2019.08.29-09.12.16:009][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.08.29-09.12.19:304][611]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.20:285][720]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.20:975][797]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.21:854][885]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.22:600][965]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.23:197][ 32]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.24:075][126]LogMaterialEditor: Applying material M_INTMETAL
+[2019.08.29-09.12.24:538][126]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.12.24:555][126]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.24:619][126]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.24:638][126]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.08.29-09.12.24:693][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.08.29-09.12.24:701][126]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.12.28:717][126]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.29-09.12.28:717][126]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.29-09.12.28:718][126]TextureStreamingBuild: Display: Compiling optional shaders took 4.025 seconds.
+[2019.08.29-09.12.28:764][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.08.29-09.12.44:404][785]MaterialEditorStats: Base pass shader: 158 instructions
+[2019.08.29-09.12.44:404][785]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 231 instructions
+[2019.08.29-09.12.44:404][785]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2019.08.29-09.12.44:404][785]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.29-09.13.03:277][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.08.29-09.13.03:586][841]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto5D65ACA6647CE499F90CF8CA6FB93B8FC.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto5.umap'
+[2019.08.29-09.13.03:593][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.358
+[2019.08.29-09.13.03:593][841]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2019.08.29-09.13.03:596][841]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum] ([1] browsable assets)...
+[2019.08.29-09.13.03:596][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum]
+[2019.08.29-09.13.03:643][841]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectMoveNum_Auto55E65F1474CE9920F68914BA78B83F16D.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum_Auto5.uasset'
+[2019.08.29-09.13.03:645][841]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_CubeFirstObjectINT] ([1] browsable assets)...
+[2019.08.29-09.13.03:661][841]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_CubeFirstObjectINT.BP_CubeFirstObjectINT]
+[2019.08.29-09.13.03:661][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_CubeFirstObjectINT]
+[2019.08.29-09.13.03:684][841]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_CubeFirstObjectINT_Auto56CA6654246D7590EFA932C9969935E68.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_CubeFirstObjectINT_Auto5.uasset'
+[2019.08.29-09.13.03:685][841]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/Material/M_INTMETAL] ([1] browsable assets)...
+[2019.08.29-09.13.03:718][841]OBJ SavePackage:     Rendered thumbnail for [Material /Game/My/Material/M_INTMETAL.M_INTMETAL]
+[2019.08.29-09.13.03:718][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Material/M_INTMETAL]
+[2019.08.29-09.13.03:739][841]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/M_INTMETAL_Auto58273B08046D0A76EA9647CA4DC805C25.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Material/M_INTMETAL_Auto5.uasset'
+[2019.08.29-09.13.03:739][841]LogFileHelpers: Auto-saving content packages took 0.145
+[2019.08.29-09.13.29:726][874]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.08.29-09.13.52:012][272]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube6)
+[2019.08.29-09.13.56:998][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.14.18:473][255]BlueprintLog: New page: BP_CubeFirstObjectINT をコンパイル
+[2019.08.29-09.14.18:774][255]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.08.29-09.14.26:717][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.14.31:473][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd
+[2019.08.29-09.16.38:927][228]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.29-09.17.03:933][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.08.29-09.17.03:958][947]LogBlueprint: Error: [Compiler BP_Cube_FirstObjectAdd] ' Spawn Transform ' ピンの現行値は無効です： 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.08.29-09.17.03:958][947]LogBlueprint: Error: [Compiler BP_Cube_FirstObjectAdd] ' Spawn Transform ' ピンの現行値は無効です： 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.08.29-09.17.03:961][947]LogBlueprint: Warning: [Compiler BP_Cube_FirstObjectAdd] [3791.78] Compile of BP_Cube_FirstObjectAdd failed. 2 Fatal Issue(s) 0 Warning(s) [in 9 ms] (/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd)
+[2019.08.29-09.17.04:191][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.08.29-09.17.04:257][947]LogMetaData: Removing '/Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.BP_Cube_FirstObjectINT:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/My/BP/FirstObject/BP_CubeFirstObjectINT.PackageMetaData'
+[2019.08.29-09.17.04:257][947]LogMetaData: Removing '/Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.SKEL_BP_Cube_FirstObjectINT_C' ref from Metadata '/Game/My/BP/FirstObject/BP_CubeFirstObjectINT.PackageMetaData'
+[2019.08.29-09.17.04:257][947]LogMetaData: Removing '/Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.BP_Cube_FirstObjectINT_C' ref from Metadata '/Game/My/BP/FirstObject/BP_CubeFirstObjectINT.PackageMetaData'
+[2019.08.29-09.17.04:257][947]LogMetaData: Removing '/Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.BP_Cube_FirstObjectINT:EventGraph.K2Node_Event_0' ref from Metadata '/Game/My/BP/FirstObject/BP_CubeFirstObjectINT.PackageMetaData'
+[2019.08.29-09.17.04:257][947]LogMetaData: Removing '/Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.BP_Cube_FirstObjectINT:EventGraph.K2Node_Event_1' ref from Metadata '/Game/My/BP/FirstObject/BP_CubeFirstObjectINT.PackageMetaData'
+[2019.08.29-09.17.04:257][947]LogMetaData: Removing '/Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.BP_Cube_FirstObjectINT:EventGraph.K2Node_Event_2' ref from Metadata '/Game/My/BP/FirstObject/BP_CubeFirstObjectINT.PackageMetaData'
+[2019.08.29-09.17.04:394][947]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectINTF3C2A773420C6F2EDE741B8FC1A725FA.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/FirstObject/BP_Cube_FirstObjectINT.uasset'
+[2019.08.29-09.17.05:318][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.08.29-09.17.05:371][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.29-09.17.05:418][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.08.29-09.17.12:476][706]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.29-09.17.37:686][700]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.08.29-09.17.40:922][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-09.17.46:312][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.18.28:167][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-09.18.34:285][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.18.56:310][897]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.08.29-09.18.58:858][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.08.29-09.18.59:733][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.19.28:807][671]BlueprintLog: New page: BP_Cube_FirstObjectAdd をコンパイル
+[2019.08.29-09.19.29:063][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.08.29-09.19.38:263][434]LogSlate: Window 'BP_Cube_FirstObjectAdd' being destroyed
+[2019.08.29-09.20.02:989][347]LogSlate: Took 0.021927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.29-09.20.11:649][169]LogSlate: Window '変数の型を変更' being destroyed
+[2019.08.29-09.20.13:735][360]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.20.13:738][360]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.20.40:563][354]LogSlate: Window '変数の型を変更' being destroyed
+[2019.08.29-09.20.42:156][535]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.20.42:159][535]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.20.55:036][893]LogSlate: Window '変数の型を変更' being destroyed
+[2019.08.29-09.20.57:141][123]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.20.57:144][123]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.23.49:613][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.08.29-09.23.49:946][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto6F933C18846F693439A09779E46ADE793.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto6.umap'
+[2019.08.29-09.23.49:951][904]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.396
+[2019.08.29-09.23.49:951][904]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.396
+[2019.08.29-09.23.49:952][904]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd] ([1] browsable assets)...
+[2019.08.29-09.23.49:971][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd]
+[2019.08.29-09.23.49:971][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd]
+[2019.08.29-09.23.50:015][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectAdd_Auto6924ED04E4430F2E53923C79DFD615938.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd_Auto6.uasset'
+[2019.08.29-09.23.50:016][904]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo] ([1] browsable assets)...
+[2019.08.29-09.23.50:035][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectDo.BP_Cube_FirstObjectDo]
+[2019.08.29-09.23.50:035][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo]
+[2019.08.29-09.23.50:104][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectDo_Auto6B5F935364ACE1C5FB26E3FB3C5AC6BFE.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectDo_Auto6.uasset'
+[2019.08.29-09.23.50:106][904]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-09.23.50:122][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset]
+[2019.08.29-09.23.50:122][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset]
+[2019.08.29-09.23.50:174][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectReset_Auto6CCD0D9C341BB7E9FFC4F0C9BF3CB8FA4.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset_Auto6.uasset'
+[2019.08.29-09.23.50:175][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum] ([1] browsable assets)...
+[2019.08.29-09.23.50:175][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum]
+[2019.08.29-09.23.50:207][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectMoveNum_Auto688B9E15A45D7A9C3F4E77FAE6DCCC004.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum_Auto6.uasset'
+[2019.08.29-09.23.50:208][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectDo] ([1] browsable assets)...
+[2019.08.29-09.23.50:208][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectDo]
+[2019.08.29-09.23.50:220][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectDo_Auto6B622777B45A1DFF787BFD1AE1FFCB0E2.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectDo_Auto6.uasset'
+[2019.08.29-09.23.50:221][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectReset] ([1] browsable assets)...
+[2019.08.29-09.23.50:221][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectReset]
+[2019.08.29-09.23.50:235][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectReset_Auto6E4CD0D204D2FE8590D597E9DADFFBB82.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectReset_Auto6.uasset'
+[2019.08.29-09.23.50:236][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectAdd] ([1] browsable assets)...
+[2019.08.29-09.23.50:236][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectAdd]
+[2019.08.29-09.23.50:248][904]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectAdd_Auto6A43C443247A38ECD8F45E98755B0F9CA.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectAdd_Auto6.uasset'
+[2019.08.29-09.23.50:249][904]LogFileHelpers: Auto-saving content packages took 0.297
+[2019.08.29-09.23.52:684][ 55]LogSlate: Window '変数の型を変更' being destroyed
+[2019.08.29-09.23.54:128][218]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.23.54:131][218]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.08.29-09.24.59:550][  8]BlueprintLog: New page: BP_Cube_FirstObjectAdd をコンパイル
+[2019.08.29-09.24.59:795][  8]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.08.29-09.25.22:024][195]BlueprintLog: New page: Widget_FirstObjectMoveNum をコンパイル
+[2019.08.29-09.25.22:262][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.08.29-09.25.26:480][659]MapCheck: New page: マップをチェック
+[2019.08.29-09.25.26:544][659]Cmd: MAP REBUILD ALLVISIBLE
+[2019.08.29-09.25.26:568][659]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.08.29-09.25.27:022][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.08.29-09.25.27:070][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:106][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:138][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.08.29-09.25.27:428][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:437][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:445][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:455][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:465][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:473][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:481][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:489][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:497][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:512][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:522][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:530][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:538][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:546][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:553][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:561][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.27:570][659]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.25.36:008][659]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.29-09.25.36:008][659]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.29-09.25.36:008][659]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.29-09.25.36:008][659]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.29-09.25.36:008][659]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.25.36:009][659]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.29-09.25.36:009][659]TextureStreamingBuild: Display: Compiling optional shaders took 8.943 seconds.
+[2019.08.29-09.25.36:057][659]LogLevel: Display: Export Material TexCoord Scales took 0.048 seconds.
+[2019.08.29-09.25.36:160][659]TextureStreamingBuild: Display: Build Texture Streaming took 0.093 seconds.
+[2019.08.29-09.25.36:217][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.08.29-09.25.36:294][659]LightingResults: New page: ライティングのビルド - 2019/08/30 3:25:36
+[2019.08.29-09.25.36:592][659]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.08.29-09.25.36:935][659]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.08.29-09.25.36:974][659]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.08.29-09.25.38:545][659]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.08.29-09.25.38:545][659]LogSwarmInterface: [TryOpenConnection] Local Process ID is 836
+[2019.08.29-09.25.44:294][659]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.08.29-09.25.44:294][659]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.08.29-09.25.44:294][659]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.08.29-09.25.44:294][659]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.08.29-09.25.44:294][659]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.08.29-09.25.44:621][659]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.08.29-09.25.44:622][659]MapCheck: New page: Map1 - 2019/08/30 3:25:44
+[2019.08.29-09.25.44:638][659]MapCheck: Error: WorldInfo_0 マップはライティングの再ビルドが必要です 
+[2019.08.29-09.25.44:693][659]MapCheck: Warning: SM_Plains_Floors_Flat02_58 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:693][659]MapCheck: Warning: SM_Plains_Floors_Flat3 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:693][659]MapCheck: Warning: SM_Plains_Floors_Flat4 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:693][659]MapCheck: Warning: SM_Plains_Floors_Flat5 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat6 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat7 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat8 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat9 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat10 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat11 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat12 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat13 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat14 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:703][659]MapCheck: Warning: SM_Plains_Floors_Flat15 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat16 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat17 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat18 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat19 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat20 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat21 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat22 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat23 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat24 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat25 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Floors_Flat26 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Exo_CobWeb04_181 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Exo_CobWeb5 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.25.44:704][659]MapCheck: Warning: SM_Plains_Colunnade_Mid_01_9 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Fern04_20 Collision enabled but StaticMesh (SM_Plains_Fern04) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Grass01_29 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Grass2 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Grass3 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Grass4 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Grass5 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.25.44:705][659]MapCheck: Warning: SM_Plains_Fern03_38 Collision enabled but StaticMesh (SM_Plains_Fern03) has no simple or complex collision. 
+[2019.08.29-09.25.44:730][659]MapCheck: マップチェックが完了: 1 エラー、 35 警告、完了に 108.687ミリ秒かかりました。
+[2019.08.29-09.25.44:766][659]LogEditorBuildUtils: Build time 0:18
+[2019.08.29-09.25.45:437][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.08.29-09.26.09:284][732]Job is a success!
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.155s
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport:      BrickData 1070x5x5 = 0.9Mb
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport:      Bricks at Level
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport:          0: 12.6% covering 100.0% of volume
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport:          1: 9.3% covering 1.2% of volume
+[2019.08.29-09.26.09:948][733]LogVolumetricLightmapImport:          2: 78.0% covering 0.2% of volume
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2019.08.29-09.26.12:784][733]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2019.08.29-09.26.12:985][733]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2019.08.29-09.26.12:985][733]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.08.29-09.26.12:985][733]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
+[2019.08.29-09.26.13:045][733]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.08.29-09.26.13:113][733]Lightmass on MYCOMPUTER: 26.5 sec total, 533 ms importing, 71 ms setup, 4.14 sec photons, 21.6 sec processing, 0 ms extra exporting [116/116 mappings]. Threads: 1:26 min total, 42.2 sec processing.
+[2019.08.29-09.26.13:120][733]LogStaticLightingSystem: Map1_BuiltData storing lightmap data for 106 meshes in 6 LightmapResourceClusters (17.7 Meshes per cluster).
+[2019.08.29-09.26.13:184][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.08.29-09.26.13:216][733]LogStaticLightingSystem: Illumination: 36.6 sec (2.20 sec encoding lightmaps, 255 ms encoding shadowmaps)
+[2019.08.29-09.26.13:216][733]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (2.0 MB streaming, 6.0 MB non-streaming), 10 textures
+[2019.08.29-09.26.13:216][733]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (0.3 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.08.29-09.26.18:311][733]DumpUnbuiltLightIteractions
+[2019.08.29-09.26.18:311][733]Lights with unbuilt interactions: 0
+[2019.08.29-09.26.18:311][733]
+[2019.08.29-09.26.18:311][733]Primitives with unbuilt interactions: 0
+[2019.08.29-09.26.18:356][734]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.08.29-09.26.18:356][734]MapCheck: New page: Map1 - 2019/08/30 3:26:18
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat02_58 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat3 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat4 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat5 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat6 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat7 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:356][734]MapCheck: Warning: SM_Plains_Floors_Flat8 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat9 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat10 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat11 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat12 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat13 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat14 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat15 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat16 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat17 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat18 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat19 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat20 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat21 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat22 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat23 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat24 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat25 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Floors_Flat26 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Exo_CobWeb04_181 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Exo_CobWeb5 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.26.18:357][734]MapCheck: Warning: SM_Plains_Colunnade_Mid_01_9 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Fern04_20 Collision enabled but StaticMesh (SM_Plains_Fern04) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Grass01_29 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Grass2 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Grass3 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Grass4 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Grass5 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: Warning: SM_Plains_Fern03_38 Collision enabled but StaticMesh (SM_Plains_Fern03) has no simple or complex collision. 
+[2019.08.29-09.26.18:359][734]MapCheck: マップチェックが完了: 0 エラー、 35 警告、完了に 2.741ミリ秒かかりました。
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e6539fbf70 [can pipeline])
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.17.106.84) port 443 (#30))
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: 000001E62ED43240: libcurl info message cache 7 (Closing connection 30)
+[2019.08.29-09.27.01:696][198]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6580C3EA-4994-488A-F400-3488A2B7273F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=580144b44e2198be714b72b87c26e6b0%7C527a58163b7f46c2907719585f422cb1%7C7df650a5-19d5-45d9-8409-d917267140ce&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.29-09.27.06:298][685]MapCheck: New page: マップをチェック
+[2019.08.29-09.27.06:309][685]Cmd: MAP REBUILD ALLVISIBLE
+[2019.08.29-09.27.06:309][685]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.08.29-09.27.06:608][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.08.29-09.27.06:656][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:671][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.08.29-09.27.06:711][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:721][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:729][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:737][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:751][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:759][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:767][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:774][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:792][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:802][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:811][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:818][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:828][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:836][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:843][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:851][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.06:862][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.29-09.27.15:347][685]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.29-09.27.15:347][685]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.29-09.27.15:347][685]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.29-09.27.15:347][685]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.29-09.27.15:347][685]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.29-09.27.15:347][685]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.29-09.27.15:347][685]TextureStreamingBuild: Display: Compiling optional shaders took 8.695 seconds.
+[2019.08.29-09.27.15:358][685]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2019.08.29-09.27.15:418][685]TextureStreamingBuild: Display: Build Texture Streaming took 0.059 seconds.
+[2019.08.29-09.27.15:474][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.08.29-09.27.15:474][685]LightingResults: New page: ライティングのビルド - 2019/08/30 3:27:15
+[2019.08.29-09.27.15:484][685]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.08.29-09.27.15:491][685]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.08.29-09.27.15:491][685]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.08.29-09.27.15:492][685]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.08.29-09.27.15:492][685]LogSwarmInterface: [TryOpenConnection] Local Process ID is 836
+[2019.08.29-09.27.20:055][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.08.29-09.27.20:055][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.08.29-09.27.20:055][685]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.08.29-09.27.20:055][685]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.08.29-09.27.20:055][685]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.08.29-09.27.20:207][685]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.08.29-09.27.20:207][685]MapCheck: New page: Map1 - 2019/08/30 3:27:20
+[2019.08.29-09.27.20:207][685]MapCheck: Warning: SM_Plains_Floors_Flat02_58 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:207][685]MapCheck: Warning: SM_Plains_Floors_Flat3 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:207][685]MapCheck: Warning: SM_Plains_Floors_Flat4 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:207][685]MapCheck: Warning: SM_Plains_Floors_Flat5 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:207][685]MapCheck: Warning: SM_Plains_Floors_Flat6 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:207][685]MapCheck: Warning: SM_Plains_Floors_Flat7 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat8 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat9 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat10 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat11 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat12 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat13 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat14 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat15 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat16 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat17 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat18 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat19 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat20 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat21 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat22 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat23 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat24 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat25 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Plains_Floors_Flat26 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Exo_CobWeb04_181 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.27.20:208][685]MapCheck: Warning: SM_Exo_CobWeb5 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Colunnade_Mid_01_9 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Fern04_20 Collision enabled but StaticMesh (SM_Plains_Fern04) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Grass01_29 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Grass2 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Grass3 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Grass4 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Grass5 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: Warning: SM_Plains_Fern03_38 Collision enabled but StaticMesh (SM_Plains_Fern03) has no simple or complex collision. 
+[2019.08.29-09.27.20:209][685]MapCheck: マップチェックが完了: 0 エラー、 35 警告、完了に 2.187ミリ秒かかりました。
+[2019.08.29-09.27.20:233][685]LogEditorBuildUtils: Build time 0:13
+[2019.08.29-09.27.20:397][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.29-09.27.48:669][243]Job is a success!
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.115s
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport:      BrickData 1070x5x5 = 0.9Mb
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport:      Bricks at Level
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport:          0: 12.6% covering 100.0% of volume
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport:          1: 9.3% covering 1.2% of volume
+[2019.08.29-09.27.48:866][245]LogVolumetricLightmapImport:          2: 78.0% covering 0.2% of volume
+[2019.08.29-09.27.51:463][245]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.08.29-09.27.51:464][245]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.08.29-09.27.51:664][245]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X256)
+[2019.08.29-09.27.51:664][245]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2019.08.29-09.27.51:664][245]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X512)
+[2019.08.29-09.27.51:733][245]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.08.29-09.27.51:752][245]LogStaticLightingSystem: Map1_BuiltData storing lightmap data for 106 meshes in 6 LightmapResourceClusters (17.7 Meshes per cluster).
+[2019.08.29-09.27.51:820][245]Lightmass on MYCOMPUTER: 30.5 sec total, 240 ms importing, 60 ms setup, 4.83 sec photons, 25.3 sec processing, 0 ms extra exporting [116/116 mappings]. Threads: 1:41 min total, 52.9 sec processing.
+[2019.08.29-09.27.51:825][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.08.29-09.27.51:836][245]LogStaticLightingSystem: Illumination: 36.3 sec (2.09 sec encoding lightmaps, 266 ms encoding shadowmaps)
+[2019.08.29-09.27.51:836][245]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (2.0 MB streaming, 6.0 MB non-streaming), 10 textures
+[2019.08.29-09.27.51:836][245]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (0.3 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.08.29-09.27.52:077][245]DumpUnbuiltLightIteractions
+[2019.08.29-09.27.52:077][245]Lights with unbuilt interactions: 0
+[2019.08.29-09.27.52:077][245]
+[2019.08.29-09.27.52:077][245]Primitives with unbuilt interactions: 0
+[2019.08.29-09.27.52:115][246]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.08.29-09.27.52:115][246]MapCheck: New page: Map1 - 2019/08/30 3:27:52
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat02_58 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat3 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat4 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat5 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat6 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat7 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat8 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat9 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat10 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat11 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat12 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat13 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:116][246]MapCheck: Warning: SM_Plains_Floors_Flat14 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat15 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat16 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat17 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat18 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat19 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat20 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat21 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat22 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat23 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat24 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat25 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Floors_Flat26 Collision enabled but StaticMesh (SM_Plains_Floors_Flat02) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Exo_CobWeb04_181 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Exo_CobWeb5 Collision enabled but StaticMesh (SM_Exo_CobWeb04) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Colunnade_Mid_01_9 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Fern04_20 Collision enabled but StaticMesh (SM_Plains_Fern04) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Grass01_29 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.52:117][246]MapCheck: Warning: SM_Plains_Grass2 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.52:118][246]MapCheck: Warning: SM_Plains_Grass3 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.52:118][246]MapCheck: Warning: SM_Plains_Grass4 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.52:118][246]MapCheck: Warning: SM_Plains_Grass5 Collision enabled but StaticMesh (SM_Plains_Grass01) has no simple or complex collision. 
+[2019.08.29-09.27.52:118][246]MapCheck: Warning: SM_Plains_Fern03_38 Collision enabled but StaticMesh (SM_Plains_Fern03) has no simple or complex collision. 
+[2019.08.29-09.27.52:118][246]MapCheck: マップチェックが完了: 0 エラー、 35 警告、完了に 2.701ミリ秒かかりました。
+[2019.08.29-09.28.06:649][961]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.08.29-09.28.14:222][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.28.26:974][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset
+[2019.08.29-09.32.01:479][966]BlueprintLog: New page: BP_Cube_FirstObjectReset をコンパイル
+[2019.08.29-09.32.01:732][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.08.29-09.32.12:381][197]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObject_C (BP_FirstObject)
+[2019.08.29-09.32.14:685][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.29-09.32.14:860][470]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_FirstObject.BP_FirstObject
+[2019.08.29-09.32.31:293][293]LogUObjectArray: Warning: Empty slot
+[2019.08.29-09.32.31:312][293]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.29-09.32.35:735][293]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.423 s
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: 
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: Stack: 
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff049fc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff04276fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff04284e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff015137f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007ffefff85cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007ffefff41e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff13225984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff134115e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff1326d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.29-09.32.35:735][293]LogOutputDevice: Error: [Callstack] 0x00007fff1324af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff13240287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff522cb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff522bef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff522cd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff522bc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff6109ca66 USER32.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff6109c582 USER32.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff522ce946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007ff620365d3e UE4Editor.exe!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007ff62037554c UE4Editor.exe!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007ff6203755ca UE4Editor.exe!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007ff62038316c UE4Editor.exe!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007ff620385b8e UE4Editor.exe!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff61967974 KERNEL32.DLL!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: [Callstack] 0x00007fff6377a271 ntdll.dll!UnknownFunction []
+[2019.08.29-09.32.35:736][293]LogOutputDevice: Error: 
+[2019.08.29-09.32.35:756][293]LogStats:                SubmitErrorReport -  0.000 s
