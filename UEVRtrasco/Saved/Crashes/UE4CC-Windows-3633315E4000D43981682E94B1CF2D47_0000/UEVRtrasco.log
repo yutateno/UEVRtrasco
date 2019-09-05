@@ -1,0 +1,1179 @@
+﻿Log file open, 09/02/19 12:15:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UEVRtrasco
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.526471
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Could not determine HMD audio input device
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.02-03.15.33:921][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.33:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.02-03.15.33:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.33:922][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.33:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.02-03.15.33:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.02-03.15.33:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.02-03.15.33:977][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-03.15.33:977][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.02-03.15.34:099][  0]LogHAL: Display: Platform has ~ 8 GB [8543051776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.02-03.15.34:104][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.02-03.15.34:104][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.02-03.15.34:105][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.09.02-03.15.34:105][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.09.02-03.15.34:106][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.02-03.15.34:116][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.02-03.15.34:117][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.02-03.15.34:117][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Config/Windows/Engine.ini]
+[2019.09.02-03.15.34:164][  0]LogInit: Computer: MYCOMPUTER
+[2019.09.02-03.15.34:164][  0]LogInit: User: kingw
+[2019.09.02-03.15.34:164][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.02-03.15.34:164][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.02-03.15.34:164][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.09.02-03.15.34:164][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.02-03.15.34:164][  0]LogMemory: Process Physical Memory: 104.22 MB used, 104.23 MB peak
+[2019.09.02-03.15.34:164][  0]LogMemory: Process Virtual Memory: 104.38 MB used, 104.38 MB peak
+[2019.09.02-03.15.34:164][  0]LogMemory: Physical Memory: 4673.00 MB used,  3474.29 MB free, 8147.29 MB total
+[2019.09.02-03.15.34:164][  0]LogMemory: Virtual Memory: 4678.33 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.09.02-03.15.34:763][  0]LogInit: Using OS detected language (ja-JP).
+[2019.09.02-03.15.34:763][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.09.02-03.15.34:765][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.09.02-03.15.35:127][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.02-03.15.35:650][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.02-03.15.35:650][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.02-03.15.39:542][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.02-03.15.39:623][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.09.02-03.15.39:623][  0]LogD3D11RHI:       2988/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.02-03.15.39:625][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.02-03.15.39:625][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.02-03.15.39:625][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.02-03.15.39:682][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.02-03.15.39:682][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.02-03.15.39:682][  0]LogWindows: EnumDisplayDevices:
+[2019.09.02-03.15.39:683][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.09.02-03.15.39:683][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.02-03.15.39:683][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.02-03.15.39:683][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.02-03.15.39:684][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.02-03.15.39:684][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.09.02-03.15.39:684][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.09.02-03.15.39:684][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.09.02-03.15.39:684][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.09.02-03.15.39:740][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.02-03.15.39:864][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-03.15.39:871][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-03.15.39:871][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-03.15.39:944][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.02-03.15.40:820][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.02-03.15.40:857][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.02-03.15.40:905][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.02-03.15.40:937][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.02-03.15.41:021][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.02-03.15.41:071][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.02-03.15.41:112][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.02-03.15.41:145][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.02-03.15.41:175][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.02-03.15.41:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.02-03.15.41:340][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.02-03.15.41:478][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.02-03.15.41:478][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.02-03.15.41:524][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.02-03.15.41:524][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.02-03.15.41:559][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.02-03.15.41:602][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.02-03.15.41:644][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.02-03.15.41:689][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.02-03.15.41:756][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.02-03.15.41:756][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.02-03.15.41:756][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.02-03.15.41:925][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.02-03.15.42:674][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Intermediate/Shaders/WorkingDirectory/13556/).
+[2019.09.02-03.15.42:674][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/9B750E224E648EFBB35DFCB8A9E0B7DF/'.
+[2019.09.02-03.15.42:681][  0]LogXGEController: Cleaning working directory: C:/Users/kingw/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.02-03.15.42:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.02-03.15.42:681][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.02-03.15.42:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.02-03.15.48:067][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.02-03.15.48:551][  0]LogDerivedDataCache: Loaded boot cache 0.48s 74MB C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.02-03.15.48:552][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.02-03.15.48:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.02-03.15.48:552][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.02-03.15.48:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.02-03.15.48:552][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.02-03.15.48:609][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.02-03.15.48:638][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.09.02-03.15.48:650][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.02-03.15.48:650][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.02-03.15.48:650][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.02-03.15.48:725][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.02-03.15.48:785][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.02-03.15.48:839][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.02-03.15.50:182][  0]LogAssetRegistry: FAssetRegistry took 0.0352 seconds to start up
+[2019.09.02-03.15.54:126][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-03.15.55:857][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.02-03.15.55:857][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.02-03.15.55:857][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.02-03.15.55:857][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.02-03.15.55:857][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.02-03.15.56:191][  0]LogNetVersion: UEVRtrasco 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1162023569)
+[2019.09.02-03.16.00:489][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.126282 seconds
+[2019.09.02-03.16.00:513][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.02-03.16.00:513][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.02-03.16.00:513][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.02-03.16.19:380][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.02-03.16.19:433][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.02-03.16.20:210][  0]SourceControl: ソースコントロールは無効です
+[2019.09.02-03.16.20:241][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.02-03.16.20:241][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.09.02-03.16.20:242][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.02-03.16.20:242][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.09.02-03.16.20:242][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.02-03.16.20:242][  0]LogWindows: Warning: URL: C:\Users\kingw\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.09.02-03.16.20:243][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.02-03.16.20:243][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.09.02-03.16.20:243][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.02-03.16.20:243][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.09.02-03.16.23:487][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.02-03.16.23:784][  0]LogOcInput: OculusInput pre-init called
+[2019.09.02-03.16.28:982][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.09.02-03.16.28:982][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.09.02-03.16.28:983][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.09.02-03.16.28:983][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.09.02-03.16.29:931][  0]LogEngine: Initializing Engine...
+[2019.09.02-03.16.29:973][  0]LogHMD: Oculus plugin initialized. Version: 4.22.3-7053642+++UE4+Release-4.22, OVRPlugin: 1.32.0
+[2019.09.02-03.16.29:975][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.09.02-03.16.30:844][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.02-03.16.31:209][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.02-03.16.31:497][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.02-03.16.31:536][  0]LogInit: FAudioDevice initialized.
+[2019.09.02-03.16.31:537][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.02-03.16.31:725][  0]LogDerivedDataCache: Saved boot cache 0.19s 74MB C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.02-03.16.31:742][  0]LogInit: Texture streaming: Enabled
+[2019.09.02-03.16.31:944][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.02-03.16.32:169][  0]LogInit: Transaction tracking system initialized
+[2019.09.02-03.16.32:588][  0]BlueprintLog: New page: エディタの読み込み
+[2019.09.02-03.16.33:751][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.09.02-03.16.36:655][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/' took 0.03s
+[2019.09.02-03.16.36:655][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.02-03.16.36:655][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.02-03.16.42:036][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Map/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.02-03.16.42:127][  0]LightingResults: New page: ライティングのビルド
+[2019.09.02-03.16.42:304][  0]MapCheck: New page: マップをチェック
+[2019.09.02-03.16.42:304][  0]LightingResults: New page: ライティングのビルド
+[2019.09.02-03.16.42:547][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.09.02-03.16.49:586][  0]LogAIModule: Creating AISystem for world Map1
+[2019.09.02-03.16.49:990][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.02-03.16.50:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.09.02-03.16.50:104][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.02-03.16.50:104][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.106ミリ秒かかりました。
+[2019.09.02-03.16.50:104][  0]LogFileHelpers: Loading map 'Map1' took 8.073
+[2019.09.02-03.16.51:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-03.16.51:442][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-03.16.51:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-03.16.51:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-03.16.51:533][  0]LogCollectionManager: Loaded 0 collections in 0.001208 seconds
+[2019.09.02-03.16.51:778][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Collections/' took 0.01s
+[2019.09.02-03.16.51:778][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Developers/kingw/Collections/' took 0.01s
+[2019.09.02-03.16.51:778][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/Collections/' took 0.01s
+[2019.09.02-03.16.51:778][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.02-03.16.51:790][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2864 classes and 726 folders.
+[2019.09.02-03.16.51:895][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.02-03.16.52:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.52:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-03.16.53:408][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.02-03.16.53:439][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.09.02-03.16.54:110][  0]LogSlate: Took 0.017958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.02-03.16.54:149][  0]LogSlate: Took 0.031237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.09.02-03.16.54:169][  0]LogSlate: Took 0.020197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.09.02-03.16.54:188][  0]LogSlate: Took 0.018810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.02-03.16.54:235][  0]LogSlate: Took 0.014583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.02-03.16.54:920][  0]LogRenderer: Reallocating scene render targets to support 1216x572 Format 26 NumSamples 1 (Frame:1).
+[2019.09.02-03.16.55:554][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.02-03.16.55:554][  0]LogLoad: (Engine Initialization) Total time: 100.99 seconds
+[2019.09.02-03.16.55:554][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.02-03.16.55:602][  0]LogOcInput: OculusInput is initialized
+[2019.09.02-03.16.55:764][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.09.02-03.16.55:868][  0]LogSlate: Took 0.019707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-03.16.56:020][  1]LogAssetRegistry: Asset discovery search completed in 65.8605 seconds
+[2019.09.02-03.16.56:033][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.02-03.16.56:033][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2019.09.02-03.16.56:331][  4]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoBold.RobotoBold', Character: 'の (U+306e)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.09.02-03.16.56:382][  4]LogSlate: Took 0.051159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.09.02-03.30.16:690][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.30.20:454][547]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-03.30.20:486][547]LogSlate: Took 0.030852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.09.02-03.30.20:496][547]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_INTBoxUI.Widget_INTBoxUI
+[2019.09.02-03.30.21:344][547]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.09.02-03.30.22:657][547]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.09.02-03.30.23:586][547]LogSlate: Took 0.016909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.02-03.30.23:607][547]LogSlate: Took 0.020784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2019.09.02-03.30.50:001][613]BlueprintLog: New page: Widget_INTBoxUI をコンパイル
+[2019.09.02-03.30.50:403][613]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.09.02-03.31.00:451][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.31.07:548][589]BlueprintLog: New page: Widget_INTBoxUI をコンパイル
+[2019.09.02-03.31.07:766][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.09.02-03.31.14:201][265]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_IntDescription.Widget_IntDescription
+[2019.09.02-03.31.33:122][390]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.09.02-03.31.40:179][199]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.09.02-03.32.01:649][725]BlueprintLog: New page: Widget_IntDescription をコンパイル
+[2019.09.02-03.32.01:895][725]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.09.02-03.32.05:191][ 71]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_Int_ActorSphere.Widget_Int_ActorSphere
+[2019.09.02-03.32.11:318][730]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FloatDescription.Widget_FloatDescription
+[2019.09.02-03.32.21:151][826]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.09.02-03.32.28:437][674]BlueprintLog: New page: Widget_FloatDescription をコンパイル
+[2019.09.02-03.32.28:671][674]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2019.09.02-03.32.42:625][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.32.42:813][275]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FLOATBoxUI.Widget_FLOATBoxUI
+[2019.09.02-03.32.52:492][354]BlueprintLog: New page: Widget_FLOATBoxUI をコンパイル
+[2019.09.02-03.32.52:701][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.09.02-03.33.04:111][605]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_Float_ActorCube.Widget_Float_ActorCube
+[2019.09.02-03.33.07:093][899]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstWhatDoing.Widget_FirstWhatDoing
+[2019.09.02-03.33.20:060][370]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.09.02-03.33.33:261][920]BlueprintLog: New page: Widget_FirstWhatDoing をコンパイル
+[2019.09.02-03.33.33:477][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.09.02-03.33.44:726][228]BlueprintLog: New page: Widget_FirstWhatDoing をコンパイル
+[2019.09.02-03.33.44:938][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.09.02-03.33.55:138][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.33.55:326][351]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectReset.Widget_FirstObjectReset
+[2019.09.02-03.34.10:812][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.34.12:237][207]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum.Widget_FirstObjectMoveNum
+[2019.09.02-03.34.12:644][207]LogSlate: Took 0.019402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2019.09.02-03.34.19:676][ 31]BlueprintLog: New page: Widget_FirstObjectMoveNum をコンパイル
+[2019.09.02-03.34.19:892][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.09.02-03.34.22:632][315]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectDo.Widget_FirstObjectDo
+[2019.09.02-03.34.25:002][536]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd
+[2019.09.02-03.35.12:526][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-03.35.12:649][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.09.02-03.35.12:650][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.048
+[2019.09.02-03.35.12:652][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FLOATBoxUI] ([1] browsable assets)...
+[2019.09.02-03.35.12:652][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FLOATBoxUI]
+[2019.09.02-03.35.13:142][724]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FLOATBoxUI_Auto162516A774D9FB442DE666DA487892075.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FLOATBoxUI_Auto1.uasset'
+[2019.09.02-03.35.13:153][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_INTBoxUI] ([1] browsable assets)...
+[2019.09.02-03.35.13:153][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_INTBoxUI]
+[2019.09.02-03.35.13:186][724]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_INTBoxUI_Auto1ED0BECF345F3E253D34BCC91E9137473.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_INTBoxUI_Auto1.uasset'
+[2019.09.02-03.35.13:187][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum] ([1] browsable assets)...
+[2019.09.02-03.35.13:187][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum]
+[2019.09.02-03.35.13:263][724]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectMoveNum_Auto1271D26724447337A12BFE99977B1C5B2.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum_Auto1.uasset'
+[2019.09.02-03.35.13:264][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstWhatDoing] ([1] browsable assets)...
+[2019.09.02-03.35.13:264][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstWhatDoing]
+[2019.09.02-03.35.13:371][724]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstWhatDoing_Auto19B87B4244561911310F732BEA6BC0FDA.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstWhatDoing_Auto1.uasset'
+[2019.09.02-03.35.13:385][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FloatDescription] ([1] browsable assets)...
+[2019.09.02-03.35.13:385][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FloatDescription]
+[2019.09.02-03.35.13:431][724]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FloatDescription_Auto1A727665E4CF8E6BC8966DB95B1803280.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FloatDescription_Auto1.uasset'
+[2019.09.02-03.35.13:433][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_IntDescription] ([1] browsable assets)...
+[2019.09.02-03.35.13:433][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_IntDescription]
+[2019.09.02-03.35.13:475][724]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_IntDescription_Auto1A02B84104B335B1F49296D8663A9D7A8.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_IntDescription_Auto1.uasset'
+[2019.09.02-03.35.13:476][724]LogFileHelpers: Auto-saving content packages took 0.825
+[2019.09.02-03.35.24:943][914]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FLOATBoxUI.Widget_FLOATBoxUI
+[2019.09.02-03.40.20:491][ 75]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectINT.BP_Cube_FirstObjectINT
+[2019.09.02-03.40.23:314][296]LogRenderer: Reallocating scene render targets to support 1216x876 Format 26 NumSamples 1 (Frame:1).
+[2019.09.02-03.40.29:542][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.40.29:697][963]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd
+[2019.09.02-03.40.30:300][964]LogSlate: Took 0.019758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.02-03.40.53:731][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.09.02-03.40.53:986][402]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectINTSub3FF04BC34F9AE33B0FF214A203CD42A6.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/FirstObject/BP_Cube_FirstObjectINTSub.uasset'
+[2019.09.02-03.41.13:487][425]LogAssetEditorManager: Opening Asset editor for Material /Game/My/Material/M_INTMETAL.M_INTMETAL
+[2019.09.02-03.41.13:545][425]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.09.02-03.41.14:384][425]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.09.02-03.41.14:400][425]LogMaterial: Display: Missing cached shader map for material M_INTMETAL, compiling. 
+[2019.09.02-03.41.14:434][425]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.14:449][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.41.16:688][633]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.17:696][728]LogAssetEditorManager: Opening Asset editor for Material /Game/My/Material/M_INTSUBMETAL.M_INTSUBMETAL
+[2019.09.02-03.41.17:975][728]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.18:116][728]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.18:135][728]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.19:997][877]LogSlate: Window 'M_INTSUBMETAL' being destroyed
+[2019.09.02-03.41.20:765][940]LogSlate: Window 'M_INTSUBMETAL' being destroyed
+[2019.09.02-03.41.22:310][110]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.02-03.41.26:063][486]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.26:081][486]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.41.27:695][665]MaterialEditorStats: Base pass shader: 163 instructions
+[2019.09.02-03.41.27:695][665]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 237 instructions
+[2019.09.02-03.41.27:695][665]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2019.09.02-03.41.27:695][665]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.02-03.41.28:647][764]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.32:531][177]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.02-03.41.37:983][797]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.38:003][797]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.41.38:021][797]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.38:738][872]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.38:764][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.41.38:793][872]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.09.02-03.41.39:811][984]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.40:798][ 90]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.40:820][ 90]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.41.41:486][161]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.42:294][252]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.43:172][349]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.43:845][424]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.44:298][473]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.45:373][591]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.45:769][630]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.41.46:614][722]LogMaterialEditor: Applying material M_INTSUBMETAL
+[2019.09.02-03.41.47:098][722]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.47:170][722]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.47:195][722]LogMaterial: Display: Missing cached shader map for material M_INTSUBMETAL, compiling. 
+[2019.09.02-03.41.47:254][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.09.02-03.41.47:261][722]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.02-03.41.50:543][722]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.02-03.41.50:543][722]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.02-03.41.50:545][722]TextureStreamingBuild: Display: Compiling optional shaders took 3.292 seconds.
+[2019.09.02-03.41.50:594][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.09.02-03.41.59:233][686]MaterialEditorStats: Base pass shader: 163 instructions
+[2019.09.02-03.41.59:233][686]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 237 instructions
+[2019.09.02-03.41.59:233][686]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2019.09.02-03.41.59:233][686]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.02-03.44.13:750][398]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectINTSub.BP_Cube_FirstObjectINTSub
+[2019.09.02-03.44.16:629][620]LogSlate: Window 'BP_Cube_FirstObjectINTSub' being destroyed
+[2019.09.02-03.44.22:879][135]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.09.02-03.44.42:990][149]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2019.09.02-03.44.43:180][149]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectSubB383C0F54A00E8A220BCF2A882F6753B.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/BP/FirstObject/BP_Cube_FirstObjectSub.uasset'
+[2019.09.02-03.45.14:429][357]LogAssetEditorManager: Opening Asset editor for Material /Game/My/Material/M_GlayBlack.M_GlayBlack
+[2019.09.02-03.45.14:433][357]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.14:520][357]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.14:536][357]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.14:557][357]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.45.16:844][549]LogSlate: Window 'M_GlayBlack' being destroyed
+[2019.09.02-03.45.18:949][773]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.02-03.45.19:994][890]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.20:011][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.45.20:921][980]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.45.23:694][285]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.23:714][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.45.24:720][391]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.24:743][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.45.24:773][391]LogSlate: Window 'カラー ピッカー' being destroyed
+[2019.09.02-03.45.25:997][519]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.45.26:387][563]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.26:413][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.45.27:358][666]LogMaterialEditor: Applying material M_GlayBlack
+[2019.09.02-03.45.27:846][666]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.45.27:863][666]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.27:928][666]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.27:952][666]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.28:039][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.09.02-03.45.28:047][666]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.02-03.45.32:103][666]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.02-03.45.32:103][666]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.02-03.45.32:105][666]TextureStreamingBuild: Display: Compiling optional shaders took 4.066 seconds.
+[2019.09.02-03.45.32:140][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.02-03.45.39:551][ 79]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset
+[2019.09.02-03.45.50:149][ 35]LogMaterial: Warning: Material /Game/My/Material/M_GlayBlack.M_GlayBlack needed to have new flag set bUsedWithStaticLighting !
+[2019.09.02-03.45.50:153][ 35]LogMaterial: Display: Missing cached shader map for material M_GlayBlack, compiling. 
+[2019.09.02-03.45.58:232][798]LogAssetEditorManager: Opening Asset editor for Material /Game/My/Material/M_GlayBlack.M_GlayBlack
+[2019.09.02-03.45.58:255][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.02-03.45.58:366][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.02-03.45.58:389][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.02-03.45.58:439][798]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.02-03.46.03:605][221]LogSlate: Window 'M_GlayBlack' being destroyed
+[2019.09.02-03.46.06:827][575]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.02-03.46.13:611][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.46.14:361][407]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-03.46.19:598][864]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectSub.BP_Cube_FirstObjectSub
+[2019.09.02-03.46.22:006][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.02-03.46.28:825][510]MaterialEditorStats: Base pass shader: 163 instructions
+[2019.09.02-03.46.28:825][510]MaterialEditorStats: Base pass shader with Surface Lightmap: 191 instructions
+[2019.09.02-03.46.28:825][510]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 237 instructions
+[2019.09.02-03.46.28:825][510]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2019.09.02-03.46.28:825][510]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.02-03.46.35:691][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.46.46:375][371]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd
+[2019.09.02-03.47.26:942][706]BlueprintLog: New page: Widget_FirstObjectAdd をコンパイル
+[2019.09.02-03.47.27:156][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.09.02-03.47.36:125][488]BlueprintLog: New page: Widget_FirstObjectAdd をコンパイル
+[2019.09.02-03.47.36:330][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.09.02-03.47.47:279][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd
+[2019.09.02-03.47.57:516][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.48.02:745][390]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd
+[2019.09.02-03.48.14:065][577]BlueprintLog: New page: Widget_FirstObjectAdd をコンパイル
+[2019.09.02-03.48.14:292][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.09.02-03.48.29:185][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.48.29:276][261]BlueprintLog: New page: BP_Cube_FirstObjectAdd をコンパイル
+[2019.09.02-03.48.29:497][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.09.02-03.48.33:120][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.49.05:020][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.09.02-03.49.05:563][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto2BF26E72F49DC7864168900944A30C801.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto2.umap'
+[2019.09.02-03.49.05:588][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.622
+[2019.09.02-03.49.05:588][642]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.622
+[2019.09.02-03.49.05:590][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd] ([1] browsable assets)...
+[2019.09.02-03.49.05:601][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd.BP_Cube_FirstObjectAdd]
+[2019.09.02-03.49.05:601][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd]
+[2019.09.02-03.49.05:710][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectAdd_Auto2030C2EAB42D353606AB30696E6D16E33.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectAdd_Auto2.uasset'
+[2019.09.02-03.49.05:712][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset] ([1] browsable assets)...
+[2019.09.02-03.49.05:725][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset]
+[2019.09.02-03.49.05:726][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset]
+[2019.09.02-03.49.05:813][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectReset_Auto2E7A5915C40F1E10514D85E8258709359.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectReset_Auto2.uasset'
+[2019.09.02-03.49.05:816][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectAdd] ([1] browsable assets)...
+[2019.09.02-03.49.05:816][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectAdd]
+[2019.09.02-03.49.05:874][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectAdd_Auto262796AB04F6F3006330D4FB3F61D937C.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectAdd_Auto2.uasset'
+[2019.09.02-03.49.05:875][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum] ([1] browsable assets)...
+[2019.09.02-03.49.05:875][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum]
+[2019.09.02-03.49.05:961][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectMoveNum_Auto242ABEB7B4071C47AA2B26BAFBAB26BEC.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum_Auto2.uasset'
+[2019.09.02-03.49.05:964][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstWhatDoing] ([1] browsable assets)...
+[2019.09.02-03.49.05:967][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstWhatDoing]
+[2019.09.02-03.49.06:088][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstWhatDoing_Auto2F325EAD2463348F122013CB7B78D0B24.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstWhatDoing_Auto2.uasset'
+[2019.09.02-03.49.06:090][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectINTSub] ([1] browsable assets)...
+[2019.09.02-03.49.06:090][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectINTSub]
+[2019.09.02-03.49.06:135][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectINTSub_Auto2C6AF969B4DCBA2A28D193A8B702143F0.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectINTSub_Auto2.uasset'
+[2019.09.02-03.49.06:135][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/Material/M_INTSUBMETAL] ([1] browsable assets)...
+[2019.09.02-03.49.06:146][642]OBJ SavePackage:     Rendered thumbnail for [Material /Game/My/Material/M_INTSUBMETAL.M_INTSUBMETAL]
+[2019.09.02-03.49.06:146][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Material/M_INTSUBMETAL]
+[2019.09.02-03.49.06:181][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/M_INTSUBMETAL_Auto25DC779B347F1C3C0570C04BFFE1181F8.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Material/M_INTSUBMETAL_Auto2.uasset'
+[2019.09.02-03.49.06:183][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectSub] ([1] browsable assets)...
+[2019.09.02-03.49.06:183][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectSub]
+[2019.09.02-03.49.06:245][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectSub_Auto20046E8CB45D1AF1C1044FD9558DFA2BE.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectSub_Auto2.uasset'
+[2019.09.02-03.49.06:246][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/Material/M_GlayBlack] ([1] browsable assets)...
+[2019.09.02-03.49.06:258][642]OBJ SavePackage:     Rendered thumbnail for [Material /Game/My/Material/M_GlayBlack.M_GlayBlack]
+[2019.09.02-03.49.06:259][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Material/M_GlayBlack]
+[2019.09.02-03.49.06:279][642]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/M_GlayBlack_Auto264C3A0894DAC0C8AA03C2EB7C00C63EA.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Material/M_GlayBlack_Auto2.uasset'
+[2019.09.02-03.49.06:279][642]LogFileHelpers: Auto-saving content packages took 0.690
+[2019.09.02-03.49.36:896][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.09.02-03.49.37:108][222]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectSubDF528A6C4CBD6E4E0DFDCD83DB254668.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Content/My/Widget/FirstObject/Widget_FirstObjectSub.uasset'
+[2019.09.02-03.49.38:458][283]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectSub.Widget_FirstObjectSub
+[2019.09.02-03.49.51:248][506]BlueprintLog: New page: Widget_FirstObjectSub をコンパイル
+[2019.09.02-03.49.51:463][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.09.02-03.49.58:491][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-03.49.58:536][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-03.50.15:418][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.50.16:254][157]BlueprintLog: New page: BP_Cube_FirstObjectSub をコンパイル
+[2019.09.02-03.50.16:476][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.09.02-03.51.58:218][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.55.48:741][778]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.02-03.56.07:849][877]LogSlate: Took 0.020568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.02-03.56.28:509][ 15]LogSlate: Window '変数の型を変更' being destroyed
+[2019.09.02-03.56.31:285][269]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.09.02-03.56.31:288][269]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.09.02-03.56.38:065][ 62]LogEditorTransaction: Undo パラメータタイプを変更
+[2019.09.02-03.56.39:513][214]LogEditorTransaction: Undo 変数の名前を変更
+[2019.09.02-03.56.40:186][285]LogEditorTransaction: Undo クラス ピン の値を変更
+[2019.09.02-03.56.43:019][606]LogEditorTransaction: Redo クラス ピン の値を変更
+[2019.09.02-03.58.29:902][261]LogSlate: Window '変数を削除' being destroyed
+[2019.09.02-03.58.37:789][862]LogSlate: Window '変数を削除' being destroyed
+[2019.09.02-03.58.43:878][449]LogSlate: Window '変数を削除' being destroyed
+[2019.09.02-03.58.54:518][664]BlueprintLog: New page: BP_Cube_FirstObjectSub をコンパイル
+[2019.09.02-03.58.54:746][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.09.02-03.59.23:546][672]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.09.02-03.59.25:778][888]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume10)
+[2019.09.02-03.59.26:492][948]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectSub_C (BP_Cube_FirstObjectSub)
+[2019.09.02-03.59.27:753][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.59.33:543][587]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.09.02-03.59.34:552][684]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectSub_C (BP_Cube_FirstObjectSub)
+[2019.09.02-03.59.35:982][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.59.42:924][437]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.09.02-03.59.44:166][561]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectDo_C (BP_Cube_FirstObjectDo)
+[2019.09.02-03.59.47:712][885]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.09.02-03.59.49:230][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectSub_C (BP_Cube_FirstObjectSub)
+[2019.09.02-03.59.50:335][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-03.59.53:988][441]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectAdd_C (BP_Cube_FirstObjectAdd)
+[2019.09.02-03.59.55:086][545]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectSub_C (BP_Cube_FirstObjectSub)
+[2019.09.02-04.00.00:600][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-04.00.43:238][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.09.02-04.00.43:649][785]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Map1_Auto37B2B689342E1EAA5D16FAAA95E656B5D.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Map/Map1_Auto3.umap'
+[2019.09.02-04.00.43:652][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My/Map/Map1' took 0.464
+[2019.09.02-04.00.43:652][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.464
+[2019.09.02-04.00.43:654][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectSub] ([1] browsable assets)...
+[2019.09.02-04.00.43:666][785]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectSub.BP_Cube_FirstObjectSub]
+[2019.09.02-04.00.43:666][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/BP/FirstObject/BP_Cube_FirstObjectSub]
+[2019.09.02-04.00.43:720][785]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/BP_Cube_FirstObjectSub_Auto31251BAE242671A0FB505B684F2349F41.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/BP/FirstObject/BP_Cube_FirstObjectSub_Auto3.uasset'
+[2019.09.02-04.00.43:721][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My/Widget/FirstObject/Widget_FirstObjectSub] ([1] browsable assets)...
+[2019.09.02-04.00.43:721][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/My/Widget/FirstObject/Widget_FirstObjectSub]
+[2019.09.02-04.00.43:754][785]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Widget_FirstObjectSub_Auto323DD5A1A4BC670A7A71B4491C512202E.tmp' to '../../../../../Documents/Unreal Projects/UEVRtrasco/UEVRtrasco/Saved/Autosaves/Game/My/Widget/FirstObject/Widget_FirstObjectSub_Auto3.uasset'
+[2019.09.02-04.00.43:755][785]LogFileHelpers: Auto-saving content packages took 0.101
+[2019.09.02-04.02.24:595][509]LogTemp: Repeating last play command: VR プレビュー
+[2019.09.02-04.02.24:653][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.02.24:670][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-04.02.24:684][509]LogHMD: Initializing OVRPlugin session
+[2019.09.02-04.02.24:915][509]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.09.02-04.02.24:988][509]PIE: New page: PIEセッション: Map1 (2019/09/02 22:02:24)
+[2019.09.02-04.02.25:077][509]LogPlayLevel: Creating play world package: /Game/My/Map/UEDPIE_0_Map1
+[2019.09.02-04.02.25:114][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037123s)
+[2019.09.02-04.02.25:125][509]LogAIModule: Creating AISystem for world Map1
+[2019.09.02-04.02.25:136][509]LogPlayLevel: PIE: World Init took: (0.022495s)
+[2019.09.02-04.02.25:136][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My/Map/Map1.Map1 to /Game/My/Map/UEDPIE_0_Map1.Map1 (0.060066s)
+[2019.09.02-04.02.25:183][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.09.02-04.02.25:247][509]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.02-04.02.25:275][509]LogInit: FAudioDevice initialized.
+[2019.09.02-04.02.25:293][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-04.02.25:379][509]LogUObjectGlobals: Warning: オブジェクト 'Class なし.' が見つかりませんでした
+[2019.09.02-04.02.25:379][509]LogLoad: Game class is 'GameModeBase'
+[2019.09.02-04.02.25:397][509]LogWorld: Bringing World /Game/My/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2019.09.02-13.02.25
+[2019.09.02-04.02.25:456][509]LogWorld: Bringing up level for play took: 0.076742
+[2019.09.02-04.02.25:552][509]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.09.02-04.02.25:574][509]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.09.02-04.02.25:575][509]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.09.02-04.02.25:749][509]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.02.25:749][509]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.02.25:750][509]Cmd: Stereo On
+[2019.09.02-04.02.25:769][509]Warning: Stereo On is deprecated. Use vr.bEnableStereo True instead
+[2019.09.02-04.02.25:809][509]PIE: /Game/My/Map/UEDPIE_0_Map1 1.495のプレイ イン エディタの開始時間
+[2019.09.02-04.02.25:809][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.02.25:816][509]LogEngine: Changing dynamic resolution state.
+[2019.09.02-04.02.26:015][509]LogRenderer: Reallocating scene render targets to support 1912x1136 Format 26 NumSamples 1 (Frame:1).
+[2019.09.02-04.02.39:269][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.02.39:357][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-04.02.39:435][561]LogSlate: Window 'UEVRtrasco ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.09.02-04.02.39:498][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.02-04.02.39:499][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.02.39:653][561]LogSlate: Slate User Unregistered.  User Index 8
+[2019.09.02-04.02.39:661][561]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.02.39:709][561]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2019.09.02-04.02.39:754][562]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.09.02-04.02.39:757][562]LogEngine: Changing dynamic resolution state.
+[2019.09.02-04.02.43:199][883]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_FirstObjectSub_C (BP_Cube_FirstObjectSub)
+[2019.09.02-04.02.45:005][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-04.02.46:562][130]LogTemp: Repeating last play command: VR プレビュー
+[2019.09.02-04.02.46:587][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.02.46:588][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-04.02.46:588][130]LogHMD: Initializing OVRPlugin session
+[2019.09.02-04.02.46:666][130]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.09.02-04.02.46:667][130]PIE: New page: PIEセッション: Map1 (2019/09/02 22:02:46)
+[2019.09.02-04.02.46:667][130]LogPlayLevel: Creating play world package: /Game/My/Map/UEDPIE_0_Map1
+[2019.09.02-04.02.46:693][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025047s)
+[2019.09.02-04.02.46:693][130]LogAIModule: Creating AISystem for world Map1
+[2019.09.02-04.02.46:706][130]LogPlayLevel: PIE: World Init took: (0.013673s)
+[2019.09.02-04.02.46:706][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My/Map/Map1.Map1 to /Game/My/Map/UEDPIE_0_Map1.Map1 (0.038948s)
+[2019.09.02-04.02.46:765][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.09.02-04.02.46:778][130]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.02-04.02.46:800][130]LogInit: FAudioDevice initialized.
+[2019.09.02-04.02.46:808][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-04.02.46:875][130]LogUObjectGlobals: Warning: オブジェクト 'Class なし.' が見つかりませんでした
+[2019.09.02-04.02.46:875][130]LogLoad: Game class is 'GameModeBase'
+[2019.09.02-04.02.46:880][130]LogWorld: Bringing World /Game/My/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2019.09.02-13.02.46
+[2019.09.02-04.02.46:881][130]LogWorld: Bringing up level for play took: 0.005710
+[2019.09.02-04.02.46:901][130]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.02.46:901][130]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.02.46:902][130]Cmd: Stereo On
+[2019.09.02-04.02.46:902][130]Warning: Stereo On is deprecated. Use vr.bEnableStereo True instead
+[2019.09.02-04.02.46:907][130]PIE: /Game/My/Map/UEDPIE_0_Map1 0.593のプレイ イン エディタの開始時間
+[2019.09.02-04.02.46:921][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.02.46:922][130]LogEngine: Changing dynamic resolution state.
+[2019.09.02-04.02.46:962][132]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.09.02-04.03.05:978][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.03.06:046][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-04.03.06:097][809]LogSlate: Window 'UEVRtrasco ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.09.02-04.03.06:140][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.02-04.03.06:141][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.03.06:221][809]LogSlate: Slate User Unregistered.  User Index 8
+[2019.09.02-04.03.06:221][809]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.03.06:228][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.09.02-04.03.06:256][810]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.09.02-04.03.06:258][810]LogEngine: Changing dynamic resolution state.
+[2019.09.02-04.03.12:305][365]LogEditorViewport: Clicking on Actor (LMB): BP_FirstObjectAddNum_C (BP_FirstObjectAddNum)
+[2019.09.02-04.03.14:189][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-04.03.14:290][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_FirstObjectAddNum.BP_FirstObjectAddNum
+[2019.09.02-04.03.21:655][194]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum.Widget_FirstObjectMoveNum
+[2019.09.02-04.03.44:796][554]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum.Widget_FirstObjectMoveNum
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectDo.Widget_FirstObjectDo:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectReset.Widget_FirstObjectReset:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectReset_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectDo.Widget_FirstObjectDo_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectReset.Widget_FirstObjectReset_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_Float_ActorCube.Widget_Float_ActorCube:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_Float_ActorCube.Widget_Float_ActorCube_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_Int_ActorSphere.Widget_Int_ActorSphere:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_Int_ActorSphere.Widget_Int_ActorSphere_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FLOATBoxUI.Widget_FLOATBoxUI:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FLOATBoxUI.Widget_FLOATBoxUI_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_INTBoxUI.Widget_INTBoxUI:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FirstObjectAdd_C_38:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum.Widget_FirstObjectMoveNum:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_26:Widget_FirstObjectMoveNum_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstWhatDoing.Widget_FirstWhatDoing:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_22:Widget_FirstWhatDoing_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FloatDescription.Widget_FloatDescription:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Widget_FloatDescription_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_IntDescription.Widget_IntDescription:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:Widget_IntDescription_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FirstObjectMoveNum_C_26:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_INTBoxUI_C_12:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FLOATBoxUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_IntDescription_C_16:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_IntDescription.Widget_IntDescription_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FloatDescription_C_18:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:075][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FloatDescription.Widget_FloatDescription_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FirstWhatDoing_C_22:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FirstObjectAdd_C_31:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectDo_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_50:Widget_FirstObjectAdd_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_Int_ActorSphere_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_Float_ActorCube_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:Widget_Int_ActorSphere_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:Widget_Float_ActorCube_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_47:Widget_FirstObjectAdd_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:Widget_FirstObjectDo_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Widget_FirstObjectReset_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:Widget_Float_ActorCube_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Widget_Int_ActorSphere_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_IntDescription_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_INTBoxUI_C_14:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_INTBoxUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_IntDescription_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FloatDescription_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectMoveNum_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Widget_INTBoxUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectMoveNum.Widget_FirstObjectMoveNum_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_22:Widget_FirstWhatDoing_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_INTBoxUI.Widget_INTBoxUI_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Widget_INTBoxUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FloatDescription_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FLOATBoxUI_C_20:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Widget_FLOATBoxUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FirstWhatDoing_C_24:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstWhatDoing.Widget_FirstWhatDoing_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstWhatDoing_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectAdd_C_5.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:Widget_FirstObjectAdd_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_48:Widget_FirstObjectAdd_C_11.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:Widget_FirstObjectAdd_C_11.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_52:Widget_FirstObjectSub_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectAdd_C_11.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_48:Widget_FirstObjectAdd_C_17.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectAdd_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:Widget_FirstObjectAdd_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_48:Widget_FirstObjectAdd_C_5.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:Widget_FirstObjectAdd_C_5.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectAdd_C_6.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectAdd_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:076][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:Widget_FirstObjectAdd_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_48:Widget_FirstObjectAdd_C_8.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_48:Widget_FirstObjectAdd_C_14.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:Widget_FirstObjectAdd_C_4.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectAdd_C_4.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_4.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectSub.Widget_FirstObjectSub:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectSub.Widget_FirstObjectSub_C:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Widget_FirstObjectSub_C_46:WidgetTree.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_39.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_26.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_14.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_6.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_49.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_11.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_5.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_8.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_46.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_60.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_40.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_53.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_38.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_51.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_36.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_34.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_47.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_32.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_45.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_30.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_43.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_41:Widget_FirstObjectSub_C_28.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_41.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_184.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_168.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_165.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_162.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_119.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_117.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/My/Map/Map1.Map1:Widget_FirstObjectSub_C_115.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:077][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_53:Widget_FirstObjectMoveNum_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_55:Widget_FirstObjectMoveNum_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_55:Widget_FirstObjectMoveNum_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_53:Widget_FirstObjectMoveNum_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_53:Widget_FirstObjectMoveNum_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_61.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_45:Widget_FirstObjectSub_C_62.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_57:Widget_FirstObjectMoveNum_C_0.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_57:Widget_FirstObjectMoveNum_C_1.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_57:Widget_FirstObjectMoveNum_C_2.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_57:Widget_FirstObjectMoveNum_C_3.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_57:Widget_FirstObjectMoveNum_C_4.WidgetTree_0.CanvasPanel_0
+[2019.09.02-04.04.00:078][285]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/My/Widget/FirstObject/Widget_FirstObjectAdd.Widget_FirstObjectAdd:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_175).  Import failed...
+[2019.09.02-04.04.00:078][285]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2019.09.02-04.04.00:363][304]SourceControl: fatal: E:/Epic Games/UE_4.22/Engine/Content/UMG/Editor: 'E:/Epic Games/UE_4.22/Engine/Content/UMG/Editor' is outside repository
+[2019.09.02-04.05.01:601][289]BlueprintLog: New page: Widget_FirstObjectMoveNum をコンパイル
+[2019.09.02-04.05.01:884][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.09.02-04.05.24:443][919]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.02-04.07.15:891][599]BlueprintLog: New page: Widget_FirstObjectMoveNum をコンパイル
+[2019.09.02-04.07.16:167][599]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.09.02-04.07.33:093][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-04.07.33:257][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_FirstObjectAddNum.BP_FirstObjectAddNum
+[2019.09.02-04.07.39:191][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-04.07.41:778][980]LogTemp: Repeating last play command: VR プレビュー
+[2019.09.02-04.07.41:840][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.07.41:841][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-04.07.41:841][980]LogHMD: Initializing OVRPlugin session
+[2019.09.02-04.07.41:924][980]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.09.02-04.07.41:925][980]PIE: New page: PIEセッション: Map1 (2019/09/02 22:07:41)
+[2019.09.02-04.07.41:925][980]LogPlayLevel: Creating play world package: /Game/My/Map/UEDPIE_0_Map1
+[2019.09.02-04.07.41:951][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025707s)
+[2019.09.02-04.07.41:952][980]LogAIModule: Creating AISystem for world Map1
+[2019.09.02-04.07.41:952][980]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2019.09.02-04.07.41:952][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My/Map/Map1.Map1 to /Game/My/Map/UEDPIE_0_Map1.Map1 (0.026643s)
+[2019.09.02-04.07.42:009][980]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.09.02-04.07.42:020][980]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.02-04.07.42:041][980]LogInit: FAudioDevice initialized.
+[2019.09.02-04.07.42:046][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-04.07.42:109][980]LogUObjectGlobals: Warning: オブジェクト 'Class なし.' が見つかりませんでした
+[2019.09.02-04.07.42:110][980]LogLoad: Game class is 'GameModeBase'
+[2019.09.02-04.07.42:115][980]LogWorld: Bringing World /Game/My/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2019.09.02-13.07.42
+[2019.09.02-04.07.42:116][980]LogWorld: Bringing up level for play took: 0.006281
+[2019.09.02-04.07.42:135][980]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.07.42:135][980]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.07.42:135][980]Cmd: Stereo On
+[2019.09.02-04.07.42:135][980]Warning: Stereo On is deprecated. Use vr.bEnableStereo True instead
+[2019.09.02-04.07.42:141][980]PIE: /Game/My/Map/UEDPIE_0_Map1 -0.173のプレイ イン エディタの開始時間
+[2019.09.02-04.07.42:141][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.07.42:142][980]LogEngine: Changing dynamic resolution state.
+[2019.09.02-04.07.42:175][982]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.09.02-04.07.47:598][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.07.47:664][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-04.07.47:714][488]LogSlate: Window 'UEVRtrasco ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.09.02-04.07.47:769][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.02-04.07.47:770][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/My/Map/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/My/Map/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/My/Map/Map1.Map1_C' with ClassGeneratedBy '/Game/My/Map/Map1.Map1:PersistentLevel.Map1'
+[2019.09.02-04.07.47:845][488]LogSlate: Slate User Unregistered.  User Index 8
+[2019.09.02-04.07.47:845][488]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.09.02-04.07.47:855][488]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2019.09.02-04.07.47:882][489]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.09.02-04.07.47:883][489]LogEngine: Changing dynamic resolution state.
+[2019.09.02-04.10.14:338][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-04.10.14:508][819]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/My/BP/FirstObject/BP_Cube_FirstObjectReset.BP_Cube_FirstObjectReset
+[2019.09.02-04.10.53:613][ 93]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.02-04.13.03:044][511]LogUObjectArray: Warning: Other object in slot
+[2019.09.02-04.13.03:059][511]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.02-04.13.03:846][511]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.788 s
+[2019.09.02-04.13.03:846][511]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.02-04.13.03:846][511]LogOutputDevice: Error: 
+[2019.09.02-04.13.03:846][511]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.09.02-04.13.03:846][511]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: Stack: 
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbbb2c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbb3a6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbb3b4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcb87a37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcb7315cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcb72d1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbc9a5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbcb915e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbc9ed70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbc9caf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcbc9c0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcef76b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcef75ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcef76d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcef75c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffd1310ca66 USER32.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffd1310c582 USER32.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffcef76e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ff622045d3e UE4Editor.exe!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ff62205554c UE4Editor.exe!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ff6220555ca UE4Editor.exe!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ff62206316c UE4Editor.exe!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ff622065b8e UE4Editor.exe!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffd10cb7974 KERNEL32.DLL!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: [Callstack] 0x00007ffd1345a271 ntdll.dll!UnknownFunction []
+[2019.09.02-04.13.03:847][511]LogOutputDevice: Error: 
+[2019.09.02-04.13.03:865][511]LogStats:                SubmitErrorReport -  0.000 s

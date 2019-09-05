@@ -19,4 +19,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll	2019-06-01T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2019-06-01T16:04:53.601Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2019-06-01T16:06:25.901Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2019-06-01T16:06:25.915Z
-UEVRtrasco.exe	2019-09-01T18:38:06.874Z
+UEVRtrasco.exe	2019-09-02T09:34:59.549Z
