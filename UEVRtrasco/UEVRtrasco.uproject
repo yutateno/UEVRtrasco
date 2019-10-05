@@ -4,6 +4,12 @@
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
+	"Plugins": [
+		{
+			"Name": "MfMedia",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
